@@ -17,6 +17,15 @@ Podeu baixar i executar:
 Actualment aquests fitxers s'han generat localment i encara no formen part
 d'una publicació oficial al repositori.
 
+### macOS i Linux
+
+- macOS: `.dmg` i `.zip` sense signatura Apple.
+- Linux: AppImage i `.deb`.
+
+Aquests paquets es generen automàticament a GitHub Actions amb l'etiqueta `v1.0.0`
+i les versions posteriors. macOS pot demanar permisos addicionals quan l'app no té
+signatura Apple.
+
 Ambdós executables inclouen el runtime Python i les dependències necessàries,
 inclòs el model català de Stanza per a l'opció opcional de lematització i POS tagging.
 
