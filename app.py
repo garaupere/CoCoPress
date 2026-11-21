@@ -6,6 +6,8 @@ import threading
 import time
 import uuid
 import zipfile
+import csv
+from io import StringIO
 from pathlib import Path
 from datetime import date, datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -638,6 +640,8 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
                 text_parts.append(extracted["body"])
 
                 metadata = {
+                    "filename": f"{stem}.txt",
+                    "doc_id": stem,
                     "title": extracted["title"],
                     "subtitle": extracted["subtitle"],
                     "author": extracted["author"],
@@ -666,10 +670,46 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
                         f"metadata/{stem}.json",
                         json.dumps(metadata, ensure_ascii=False, indent=2).encode("utf-8"),
                     )
+                    metadata_csv = StringIO(newline="")
+                    csv_writer = csv.DictWriter(
+                        metadata_csv,
+                        fieldnames=[
+                            "filename", "doc_id", "title", "subtitle", "author",
+                            "publication_date", "url", "source", "language",
+                            "downloaded_at", "content_file", "lemmatized",
+                            "tagged_content_file",
+                        ],
+                        extrasaction="ignore",
+                        lineterminator="\n",
+                    )
+                    csv_writer.writeheader()
+                    csv_writer.writerow(metadata)
+                    archive.writestr(
+                        f"metadata/{stem}.csv",
+                        metadata_csv.getvalue().encode("utf-8"),
+                    )
                 else:
                     archive.writestr(
                         f"metadata/{stem}.json",
                         json.dumps(metadata, ensure_ascii=False, indent=2).encode("utf-8"),
+                    )
+                    metadata_csv = StringIO(newline="")
+                    csv_writer = csv.DictWriter(
+                        metadata_csv,
+                        fieldnames=[
+                            "filename", "doc_id", "title", "subtitle", "author",
+                            "publication_date", "url", "source", "language",
+                            "downloaded_at", "content_file", "lemmatized",
+                            "tagged_content_file",
+                        ],
+                        extrasaction="ignore",
+                        lineterminator="\n",
+                    )
+                    csv_writer.writeheader()
+                    csv_writer.writerow(metadata)
+                    archive.writestr(
+                        f"metadata/{stem}.csv",
+                        metadata_csv.getvalue().encode("utf-8"),
                     )
                 manifest.append(metadata)
             except Exception as exc:
@@ -678,15 +718,27 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
             time.sleep(0.25)
 
     if manifest:
-        csv_lines = ["title,subtitle,author,publication_date,url,source,language,content_file,lemmatized,tagged_content_file"]
+        manifest_csv = StringIO(newline="")
+        manifest_fields = [
+            "filename", "doc_id", "title", "subtitle", "author",
+            "publication_date", "url", "source", "language",
+            "downloaded_at", "content_file", "lemmatized",
+            "tagged_content_file",
+        ]
+        manifest_writer = csv.DictWriter(
+            manifest_csv,
+            fieldnames=manifest_fields,
+            extrasaction="ignore",
+            lineterminator="\n",
+        )
+        manifest_writer.writeheader()
         for item in manifest:
-            row = [json.dumps(item.get(key, ""), ensure_ascii=False) for key in (
-                "title", "subtitle", "author", "publication_date", "url", "source", "language",
-                "content_file", "lemmatized", "tagged_content_file",
-            )]
-            csv_lines.append(",".join(row))
+            manifest_writer.writerow({
+                key: item.get(key, "")
+                for key in manifest_fields
+            })
         with zipfile.ZipFile(archives, "a", zipfile.ZIP_DEFLATED) as archive:
-            archive.writestr("manifest.csv", ("\ufeff" + "\n".join(csv_lines)).encode("utf-8"))
+            archive.writestr("manifest.csv", manifest_csv.getvalue().encode("utf-8"))
             archive.writestr(
                 "skipped.json",
                 json.dumps(skipped, ensure_ascii=False, indent=2).encode("utf-8"),

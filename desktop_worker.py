@@ -66,14 +66,29 @@ def write_medium(output_root, medium_name, archive_bytes):
     manifest = [json.loads(record.read_text(encoding="utf-8")) for record in metadata_records]
     manifest_path = medium_dir / "manifest.csv"
     fields = [
-        "title", "subtitle", "author", "publication_date", "url", "source",
-        "language", "content_file", "lemmatized", "tagged_content_file",
+        "filename", "doc_id", "title", "subtitle", "author", "publication_date",
+        "url", "source", "language", "downloaded_at", "content_file",
+        "lemmatized", "tagged_content_file",
     ]
     with manifest_path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields, extrasaction="ignore")
         writer.writeheader()
         for record in manifest:
+            stem = record["content_file"].removesuffix(".txt")
+            record.setdefault("filename", f"{stem}.txt")
+            record.setdefault("doc_id", stem)
             writer.writerow({key: record.get(key, "") for key in fields})
+            metadata_csv_path = metadata_dir / f"{stem}.csv"
+            if not metadata_csv_path.exists():
+                with metadata_csv_path.open("w", encoding="utf-8", newline="") as csv_handle:
+                    row_writer = csv.DictWriter(
+                        csv_handle,
+                        fieldnames=fields,
+                        extrasaction="ignore",
+                        lineterminator="\n",
+                    )
+                    row_writer.writeheader()
+                    row_writer.writerow({key: record.get(key, "") for key in fields})
 
     (medium_dir / "skipped.json").write_text(
         json.dumps(skipped, ensure_ascii=False, indent=2),

@@ -42,6 +42,11 @@ Cada notícia es desa com a fitxer TXT i té un fitxer JSON associat amb títol,
 subtítol, autor, data, URL, font i idioma. El ZIP inclou també `manifest.csv`
 i `skipped.json`.
 
+Les metadades són compatibles amb AntConc: `manifest.csv` i
+`metadata/*.csv` contenen les columnes `filename` i `doc_id`, i `filename`
+identifica exactament el TXT associat. El codificació és UTF-8 i el separador
+principal és la coma. Els JSON continuen disponibles com a còpia de metadades.
+
 Si s'activa el processament lingüístic, també es genera `tagged/*.txt`
 amb Stanza i les etiquetes UD-UPOS seguint `paraula_POS_lemma`.
 
