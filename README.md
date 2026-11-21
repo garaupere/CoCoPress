@@ -66,3 +66,31 @@ ignoreu aquests fitxers.
 3. Render crearà el servei web usant `Dockerfile`.
 4. El pla gratuït pot suspendre processos i no garanteix persistència:
    els ZIP i les tasques actualment són en memòria.
+
+## Desplegament gratuït a PythonAnywhere
+
+PythonAnywhere executa una aplicació WSGI sense Docker. Aquesta configuració
+és adequada per a proves i ús moderat; el pla gratuït limita CPU, processos,
+memòria i connexions externes.
+
+1. Creeu un compte gratuït i obriu una consola Bash.
+2. Cloneu el repositori:
+
+```bash
+git clone https://github.com/garaupere/CoCoPress.git
+cd CoCoPress
+bash pythonanywhere_setup.sh
+```
+
+3. Creeu una aplicació web Flask des del panell «Web».
+4. Trieu l’intèrpret Python 3.11 i editeu el WSGI perquè importi
+   `pythonanywhere_wsgi.py`.
+5. Configureu el virtualenv com
+   `/home/<usuari>/CoCoPress/venv`.
+6. Establiu el directori de l’aplicació com
+   `/home/<usuari>/CoCoPress`.
+7. Recàrregueu l’aplicació des del botó «Reload».
+
+Stanza pot consumir la major part de la memòria disponible al pla gratuït.
+Per a un primer desplegament, és recomanable deixar el POS tagging desactivat
+fins comprovar que el servei inicia amb estabilitat.
