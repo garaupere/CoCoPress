@@ -5,3 +5,11 @@ venv/
 .env
 *.zip
 job.json
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db

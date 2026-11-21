@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.11.10-slim-bookworm
 
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
@@ -19,6 +19,9 @@ COPY . .
 RUN mkdir -p /opt/stanza_resources \
     && python -c "import stanza; stanza.download('ca', model_dir='/opt/stanza_resources', verbose=False)"
 
-EXPOSE 10000
+EXPOSE 7860
 
-CMD ["sh", "-c", "gunicorn app:app --bind 0.0.0.0:${PORT:-10000} --workers 1 --threads 4 --timeout 600"]
+HEALTHCHECK --interval=30s --timeout=10s --start-period=20s --retries=3 \
+    CMD curl --fail --silent --show-error http://127.0.0.1:${PORT:-7860}/health || exit 1
+
+CMD ["sh", "-c", "exec gunicorn app:app --bind 0.0.0.0:${PORT:-7860} --workers 1 --threads 4 --timeout 600"]

@@ -1,3 +1,13 @@
+---
+title: CoCoPress
+emoji: "\U0001F4DA"
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+python_version: "3.11"
+---
+
 # CoCoPress
 
 **Compilació de Corpus de Premsa Escrita**
@@ -14,21 +24,42 @@ El descobriment prioritza RSS i mapes del lloc. Si no n'hi ha cap,
 l'aplicació pot cercar enllaços d'articles a la portada amb límits de volum,
 filtre del domini i respectant `robots.txt`.
 
-## Desplegament web
+## Desplegament a Hugging Face Spaces
 
-L'aplicació és compatible amb plataformes PaaS que executen un procés web:
+L'aplicació està preparada per al SDK Docker de Hugging Face Spaces i escolta
+al port `7860` per defecte. Si Spaces proporciona la variable `PORT`, el Dockerfile
+l'utilitza també.
+
+Python està fixat en la versió 3.11 (imatge Docker
+`python:3.11.10-slim-bookworm`).
+
+El punt de salut es troba a `/health` i retorna `{"status":"ok"}`.
+
+### Execució local amb Docker
 
 ```text
-gunicorn app:app --bind 0.0.0.0:$PORT --timeout 300
+docker build -t cocopress .
+docker run --rm -p 7860:7860 -e PORT=7860 cocopress
+```
+
+## Altres plataformes PaaS
+
+La configuració següent és una opció genèrica per plataformes PaaS que
+exposen un procés web:
+
+```text
+gunicorn app:app --bind 0.0.0.0:${PORT:-7860} --timeout 600
 ```
 
 Cal tenir en compte que les tasques llargues i els models Stanza necessiten
 memòria i processos persistents. Un servidor WSGI no és adequat per a tasques
 massives sense una cua de treballadors i emmagatzematge persistent.
 
-### Desplegament a Render
+### Compatibilitat opcional amb Render
 
-La configuració `render.yaml` desplega l'aplicació amb Docker:
+`render.yaml` i `Procfile` es conserven com a configuració opcional i
+heretada; Hugging Face Spaces no les necessita. Si no feu servir Render,
+ignoreu aquests fitxers.
 
 1. Obriu el repositori a Render i seleccioneu «New > Blueprint».
 2. Indiqueu el repositori `garaupere/CoCoPress`.
