@@ -29,7 +29,33 @@ button:disabled { opacity: .45; cursor: default; }
 .secondary { background: #e8edf5; color: #26364d; padding: 0 14px; }
 .selected-summary { display: flex; justify-content: space-between; margin: 16px 0 7px; }
 .selected-list { min-height: 54px; max-height: 120px; overflow-y: auto; margin-bottom: 12px; }
-.selected-source { font-size: 13px; color: #596174; padding: 3px 0; }
+.selected-source {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 13px;
+  color: #596174;
+  padding: 3px 0;
+}
+.remove-selected {
+  width: 28px;
+  height: 28px;
+  min-height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: #687187;
+  line-height: 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.remove-selected:hover,
+.remove-selected:focus-visible {
+  background: #fdecec;
+  color: #c62828;
+}
 #start { width: 100%; }
 .progress-card { margin-top: 18px; padding: 18px; }
 .progress-heading { display:flex; justify-content:space-between; }

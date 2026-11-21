@@ -34,7 +34,19 @@ function updateSelected() {
   checked.forEach((input) => {
     const item = document.createElement("div");
     item.className = "selected-source";
-    item.textContent = input.dataset.name;
+    const name = document.createElement("span");
+    name.textContent = input.dataset.name;
+    const remove = document.createElement("button");
+    remove.type = "button";
+    remove.className = "remove-selected";
+    remove.title = `Elimina ${input.dataset.name}`;
+    remove.setAttribute("aria-label", `Elimina ${input.dataset.name}`);
+    remove.innerHTML = "&#128465;";
+    remove.addEventListener("click", () => {
+      input.checked = false;
+      input.dispatchEvent(new Event("change", { bubbles: true }));
+    });
+    item.append(name, remove);
     selectedList.append(item);
   });
   start.disabled = checked.length === 0 || !selectedOutput;

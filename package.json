@@ -21,6 +21,7 @@
   "build": {
     "appId": "cat.cocopress.desktop",
     "productName": "CoCoPress",
+    "icon": "build.ico",
     "directories": {
       "output": "dist",
       "buildResources": "build"

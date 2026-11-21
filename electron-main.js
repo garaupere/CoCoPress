@@ -78,6 +78,7 @@ function createWindow() {
     height: 820,
     minWidth: 820,
     minHeight: 640,
+    icon: path.join(__dirname, "static", "favicon.png"),
     webPreferences: {
       preload: path.join(__dirname, "electron-preload.js"),
       contextIsolation: true,
