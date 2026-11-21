@@ -277,6 +277,7 @@ def get_stanza_pipeline():
             processors="tokenize,mwt,pos,lemma",
             use_gpu=False,
             verbose=False,
+            resources_dir=os.environ.get("STANZA_RESOURCES_DIR"),
         )
     return STANZA_PIPELINE
 
@@ -736,6 +737,11 @@ def download_many(job_id, source_ids, from_date, to_date, lemmatize=False):
         downloaded=created,
         archive=batch.getvalue(),
     )
+
+
+@app.get("/health")
+def health():
+    return jsonify({"status": "ok"})
 
 
 @app.route("/")
