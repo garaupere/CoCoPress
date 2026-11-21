@@ -1,0 +1,6 @@
+Flask>=3.1,<4
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+feedparser>=6.0,<7
+stanza>=1.6,<1.7
+gunicorn>=23,<24

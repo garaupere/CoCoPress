@@ -1,0 +1,926 @@
+[
+  {
+    "name": "3 Viles",
+    "domain": "3viles.com",
+    "website": "http://www.3viles.com",
+    "support": "P",
+    "feed": "https://capgros.elnacional.cat/uploads/feeds/feed_capgros_ca_12.xml"
+  },
+  {
+    "name": "324",
+    "domain": "324.cat",
+    "website": "http://www.324.cat",
+    "support": "E",
+    "feed": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0"
+  },
+  {
+    "name": "440 Clàssica",
+    "domain": "440classica.cat",
+    "website": "http://www.440classica.cat",
+    "support": "PE",
+    "feed": "https://www.enderrock.cat/rss/"
+  },
+  {
+    "name": "Aguaita",
+    "domain": "aguaita.cat",
+    "website": "http://www.aguaita.cat",
+    "support": "E",
+    "feed": "http://www.aguaita.cat/feed"
+  },
+  {
+    "name": "Al Dia",
+    "domain": "aldia.cat",
+    "website": "http://www.aldia.cat",
+    "support": "E",
+    "sitemap": "http://www.aldia.cat/sitemap.xml"
+  },
+  {
+    "name": "Ara",
+    "domain": "ara.cat",
+    "website": "http://www.ara.cat",
+    "support": "PE",
+    "feed": "https://www.ara.cat/rss/"
+  },
+  {
+    "name": "Ara Andorra",
+    "domain": "ara.ad",
+    "website": "https://www.ara.ad",
+    "support": "E",
+    "feed": "https://andorraara.com/feed/"
+  },
+  {
+    "name": "Benzina",
+    "domain": "revistabenzina.cat",
+    "website": "http://www.revistabenzina.cat",
+    "support": "PE",
+    "feed": "https://hiname.co/feed/"
+  },
+  {
+    "name": "betevé",
+    "domain": "beteve.cat",
+    "website": "https://beteve.cat",
+    "support": "E",
+    "feed": "https://beteve.cat/feed/"
+  },
+  {
+    "name": "Cafè amb Llet",
+    "domain": "cafeambllet.com",
+    "website": "http://www.cafeambllet.com",
+    "support": "E",
+    "feed": "http://www.cafeambllet.com/feed/"
+  },
+  {
+    "name": "Camp d'Esports",
+    "domain": "campdesports.cat",
+    "website": "http://www.campdesports.cat",
+    "support": "E*",
+    "sitemap": "http://www.campdesports.cat/sitemap.xml"
+  },
+  {
+    "name": "Capgròs",
+    "domain": "capgros.cat",
+    "website": "http://www.capgros.cat",
+    "support": "E",
+    "feed": "https://capgros.elnacional.cat/uploads/feeds/feed_ca.xml"
+  },
+  {
+    "name": "Caramella",
+    "domain": "revistacaramella.cat",
+    "website": "http://www.revistacaramella.cat",
+    "support": "E",
+    "feed": "http://www.revistacaramella.cat/feed/"
+  },
+  {
+    "name": "Castells",
+    "domain": "revistacastells.cat",
+    "website": "http://www.revistacastells.cat",
+    "support": "P>E",
+    "feed": "https://revistacastells.cat/feed/"
+  },
+  {
+    "name": "Cat Diàleg",
+    "domain": "catdialeg.cat",
+    "website": "http://www.catdialeg.cat",
+    "support": "E",
+    "feed": "https://conversesacatalunya.cat/feed/"
+  },
+  {
+    "name": "Catalunya Cristiana",
+    "domain": "catalunyacristiana.cat",
+    "website": "http://www.catalunyacristiana.cat",
+    "support": "",
+    "feed": "https://www.catalunyacristiana.cat/feed/"
+  },
+  {
+    "name": "Catalunya Plural",
+    "domain": "catalunyaplural.cat",
+    "website": "http://catalunyaplural.cat",
+    "support": "E",
+    "feed": "https://catalunyaplural.cat/feed/"
+  },
+  {
+    "name": "Catalunya Press",
+    "domain": "catalunyapress.cat",
+    "website": "http://www.catalunyapress.cat",
+    "support": "E",
+    "feed": "https://www.catalunyapress.cat/feed/all"
+  },
+  {
+    "name": "Catalunya Religió",
+    "domain": "catalunyareligio.cat",
+    "website": "http://www.catalunyareligio.cat",
+    "support": "E",
+    "feed": "http://www.catalunyareligio.cat/feed"
+  },
+  {
+    "name": "Celsona",
+    "domain": "celsona.com",
+    "website": "http://www.celsona.com",
+    "support": "P",
+    "feed": "http://www.celsona.com/feed/"
+  },
+  {
+    "name": "Comarcàlia",
+    "domain": "comarcalia.info",
+    "website": "http://www.comarcalia.info",
+    "support": "E",
+    "sitemap": "http://www.comarcalia.info/sitemap.xml"
+  },
+  {
+    "name": "Comarques de Ponent",
+    "domain": "comarquesdeponent.com",
+    "website": "http://www.comarquesdeponent.com",
+    "support": "PE",
+    "feed": "https://www.lleida.com/feed/"
+  },
+  {
+    "name": "Comunicació 21",
+    "domain": "comunicacio21.cat",
+    "website": "http://www.comunicacio21.cat",
+    "support": "E",
+    "feed": "https://comunicacio21.cat/feed/"
+  },
+  {
+    "name": "Crític",
+    "domain": "elcritic.cat",
+    "website": "http://www.elcritic.cat",
+    "support": "E",
+    "feed": "https://www.elcritic.cat/feed"
+  },
+  {
+    "name": "Crònica Global",
+    "domain": "cronicaglobal.com",
+    "website": "http://www.cronicaglobal.com",
+    "support": "",
+    "feed": "https://cronicaglobal.elespanol.com/rss/"
+  },
+  {
+    "name": "Cugat.cat",
+    "domain": "cugat.cat",
+    "website": "http://www.cugat.cat",
+    "support": "E",
+    "feed": "http://www.cugat.cat/feed"
+  },
+  {
+    "name": "Cuina",
+    "domain": "cuina.cat",
+    "website": "http://www.cuina.cat",
+    "support": "PE",
+    "feed": "https://www.cuina.cat/uploads/feeds/feed_cuina_ca.xml"
+  },
+  {
+    "name": "Cupatges",
+    "domain": "naciodigital.cat",
+    "website": "http://www.naciodigital.cat",
+    "support": "P",
+    "feed": "http://www.naciodigital.cat/feed"
+  },
+  {
+    "name": "dBalears",
+    "domain": "dbalears.cat",
+    "website": "http://www.dbalears.cat",
+    "support": "P>E",
+    "feed": "https://www.dbalears.cat/feed.rss"
+  },
+  {
+    "name": "Descobrir",
+    "domain": "descobrir.cat",
+    "website": "http://www.descobrir.cat",
+    "support": "PE",
+    "feed": "https://www.descobrir.cat/uploads/feeds/feed_descobrir_ca.xml"
+  },
+  {
+    "name": "Diari d'Andorra",
+    "domain": "diariandorra.ad",
+    "website": "http://www.diariandorra.ad",
+    "support": "PE",
+    "feed": "https://www.diariandorra.ad/rss/home.xml"
+  },
+  {
+    "name": "Diari Més",
+    "domain": "diarimes.com",
+    "website": "http://www.diarimes.com",
+    "support": "PE",
+    "feed": "https://www.diarimes.com/ca/rss/home.xml"
+  },
+  {
+    "name": "Directa",
+    "domain": "directa.cat",
+    "website": "http://www.directa.cat",
+    "support": "PE",
+    "feed": "http://www.directa.cat/feed"
+  },
+  {
+    "name": "Dovella",
+    "domain": "cebages.org",
+    "website": "http://www.cebages.org",
+    "support": "P",
+    "feed": "https://cebages.org/feed/"
+  },
+  {
+    "name": "Economia Digital",
+    "domain": "economiadigital.es",
+    "website": "http://www.economiadigital.es",
+    "support": "E",
+    "feed": "https://www.economiadigital.es/feed"
+  },
+  {
+    "name": "Eines",
+    "domain": "irla.cat",
+    "website": "http://www.irla.cat",
+    "support": "",
+    "feed": "https://irla.cat/feed/"
+  },
+  {
+    "name": "El 9 Nou",
+    "domain": "el9nou.cat",
+    "website": "http://www.el9nou.cat",
+    "support": "P",
+    "feed": "http://www.el9nou.cat/feed"
+  },
+  {
+    "name": "El Baix",
+    "domain": "elbaix.cat",
+    "website": "http://www.elbaix.cat",
+    "support": "E",
+    "feed": "http://www.elbaix.cat/feed"
+  },
+  {
+    "name": "El Correu",
+    "domain": "escoltesiguies.cat",
+    "website": "http://www.escoltesiguies.cat",
+    "support": "P",
+    "feed": "https://www.escoltesiguies.cat/rss"
+  },
+  {
+    "name": "El Diari de l'Educació",
+    "domain": "diarieducacio.cat",
+    "website": "http://www.diarieducacio.cat",
+    "support": "E",
+    "feed": "https://diarieducacio.cat/feed/"
+  },
+  {
+    "name": "El Diario CV",
+    "domain": "eldiario.es",
+    "website": "http://www.eldiario.es",
+    "support": "E",
+    "feed": "https://www.eldiario.es/rss/"
+  },
+  {
+    "name": "El Matí",
+    "domain": "elmati.cat",
+    "website": "http://www.elmati.cat",
+    "support": "E",
+    "feed": "https://elmati.cat/feed/"
+  },
+  {
+    "name": "El Món",
+    "domain": "elmon.cat",
+    "website": "http://www.elmon.cat",
+    "support": "E",
+    "feed": "https://elmon.cat/politica/feed/"
+  },
+  {
+    "name": "El Món Medieval",
+    "domain": "monmedieval.cat",
+    "website": "http://www.monmedieval.cat",
+    "support": "PE",
+    "feed": "https://monmedieval.ammedieval.org/feed/"
+  },
+  {
+    "name": "El Nacional",
+    "domain": "elnacional.cat",
+    "website": "http://www.elnacional.cat",
+    "support": "E",
+    "feed": "https://www.elnacional.cat/uploads/feeds/feed_ca.xml"
+  },
+  {
+    "name": "El Portal de Centelles",
+    "domain": "edicionselportal.blogspot.com",
+    "website": "http://www.edicionselportal.blogspot.com",
+    "support": "P",
+    "feed": "http://edicionselportal.blogspot.com/feeds/posts/default"
+  },
+  {
+    "name": "El Pou de la Gallina",
+    "domain": "elpou.cat",
+    "website": "http://www.elpou.cat",
+    "support": "P",
+    "feed": "https://www.elpou.cat/rss/"
+  },
+  {
+    "name": "El Procés",
+    "domain": "revistaelproces.wordpress.com",
+    "website": "http://revistaelproces.wordpress.com",
+    "support": "E",
+    "feed": "https://revistaelproces.wordpress.com/feed/"
+  },
+  {
+    "name": "El Temps",
+    "domain": "eltemps.cat",
+    "website": "http://www.eltemps.cat",
+    "support": "PE",
+    "feed": "https://www.eltemps.cat/sindica"
+  },
+  {
+    "name": "El Ter",
+    "domain": "elter.net",
+    "website": "http://www.elter.net",
+    "support": "PE",
+    "feed": "https://www.elter.net/rss/"
+  },
+  {
+    "name": "El Triangle",
+    "domain": "eltriangle.eu",
+    "website": "http://www.eltriangle.eu",
+    "support": "PE",
+    "feed": "https://www.eltriangle.eu/feed/"
+  },
+  {
+    "name": "ElRipollès.info",
+    "domain": "elripolles.info",
+    "website": "http://www.elripolles.info",
+    "support": "E",
+    "sitemap": "http://www.elripolles.info/sitemap.xml"
+  },
+  {
+    "name": "Enderrock",
+    "domain": "enderrock.cat",
+    "website": "http://www.enderrock.cat",
+    "support": "PE",
+    "feed": "https://www.enderrock.cat/rss/"
+  },
+  {
+    "name": "Entreacte",
+    "domain": "entreacte.cat",
+    "website": "http://www.entreacte.cat",
+    "support": "",
+    "feed": "https://entreacte.cat/feed/"
+  },
+  {
+    "name": "Espais de Llibertat",
+    "domain": "ferrerguardia.org",
+    "website": "http://www.ferrerguardia.org",
+    "support": "P",
+    "sitemap": "http://www.ferrerguardia.org/sitemap.xml"
+  },
+  {
+    "name": "Esport3",
+    "domain": "esport3.cat",
+    "website": "http://www.esport3.cat",
+    "support": "E",
+    "feed": "https://api.3cat.cat/noticies?_format=rss&origen=frontal&frontal=pue3-home-noticia&version=2.0"
+  },
+  {
+    "name": "Esquitx",
+    "domain": "esquitx.cat",
+    "website": "http://www.esquitx.cat",
+    "support": "P",
+    "feed": "https://gg.timebet710.com/feed/"
+  },
+  {
+    "name": "Europa de les Nacions",
+    "domain": "ciemen.cat",
+    "website": "http://www.ciemen.cat",
+    "support": "",
+    "feed": "https://www.ciemen.cat/feed/"
+  },
+  {
+    "name": "Excursionisme",
+    "domain": "excursionisme.cat",
+    "website": "http://www.excursionisme.cat",
+    "support": "P",
+    "sitemap": "http://www.excursionisme.cat/sitemap.xml"
+  },
+  {
+    "name": "Fet a Sant Feliu",
+    "domain": "fetasantfeliu.cat",
+    "website": "http://www.fetasantfeliu.cat",
+    "support": "EP",
+    "feed": "https://www.fetasantfeliu.cat/sindica"
+  },
+  {
+    "name": "Foc Nou",
+    "domain": "focnou.cat",
+    "website": "http://www.focnou.cat",
+    "support": "P",
+    "feed": "https://www.focnou.cat/feed/"
+  },
+  {
+    "name": "Full Quatre",
+    "domain": "fullquatre.com",
+    "website": "http://www.fullquatre.com",
+    "support": "E",
+    "sitemap": "http://www.fullquatre.com/sitemap.xml"
+  },
+  {
+    "name": "Girona Notícies",
+    "domain": "gironanoticies.com",
+    "website": "http://www.gironanoticies.com",
+    "support": "PE",
+    "feed": "http://www.gironanoticies.com/feed"
+  },
+  {
+    "name": "GOL",
+    "domain": "diariogol.com",
+    "website": "http://www.diariogol.com",
+    "support": "P",
+    "feed": "https://www.diariogol.com/feed"
+  },
+  {
+    "name": "Groc",
+    "domain": "revistagroc.com",
+    "website": "http://www.revistagroc.com",
+    "support": "P",
+    "feed": "https://www.revistagroc.com/blog-feed.xml"
+  },
+  {
+    "name": "IB3 Notícies",
+    "domain": "ib3noticies.com",
+    "website": "http://www.ib3noticies.com",
+    "support": "E",
+    "feed": "http://www.ib3noticies.com/feed"
+  },
+  {
+    "name": "infoCamp de Tarragona",
+    "domain": "infocamp.cat",
+    "website": "http://www.infocamp.cat",
+    "support": "E*",
+    "feed": "https://infocamp.cat/feed/"
+  },
+  {
+    "name": "Jornal",
+    "domain": "jornal.cat",
+    "website": "http://www.jornal.cat",
+    "support": "E",
+    "feed": "https://www.jornal.cat/sindica"
+  },
+  {
+    "name": "L'Accent",
+    "domain": "laccent.cat",
+    "website": "http://www.laccent.cat",
+    "support": "PE",
+    "feed": "https://www.laccent.cat/feed.xml"
+  },
+  {
+    "name": "L'Avenç",
+    "domain": "lavenc.cat",
+    "website": "http://www.lavenc.cat",
+    "support": "PE",
+    "feed": "https://www.lavenc.cat/rss/"
+  },
+  {
+    "name": "L'Eco de Sitges",
+    "domain": "lecodesitges.cat",
+    "website": "http://www.lecodesitges.cat",
+    "support": "PE",
+    "feed": "http://lecodesitges.cat/feed/"
+  },
+  {
+    "name": "L'Hiperbòlic",
+    "domain": "naciodigital.cat",
+    "website": "http://www.naciodigital.cat",
+    "support": "P",
+    "feed": "http://www.naciodigital.cat/feed"
+  },
+  {
+    "name": "L'Hora",
+    "domain": "noucicle.org",
+    "website": "http://www.noucicle.org",
+    "support": "E",
+    "feed": "https://www.noucicle.org/lhora/feed/"
+  },
+  {
+    "name": "La Bústia",
+    "domain": "labustia.cat",
+    "website": "https://labustia.cat",
+    "support": "PE",
+    "feed": "https://labustia.cat/feed/"
+  },
+  {
+    "name": "La Ciutat de Tarragona",
+    "domain": "laciutat.cat",
+    "website": "http://www.laciutat.cat",
+    "support": "P",
+    "feed": "https://laciutat.cat/uploads/feeds/feed_laciutat_ca.xml"
+  },
+  {
+    "name": "La Independent",
+    "domain": "laindependent.cat",
+    "website": "http://www.laindependent.cat",
+    "support": "E",
+    "feed": "https://laindependent.cat/feed/"
+  },
+  {
+    "name": "La Neu al Dia",
+    "domain": "laneualdia.com",
+    "website": "http://www.laneualdia.com",
+    "support": "E",
+    "feed": "https://laneualdia.com/feed/"
+  },
+  {
+    "name": "La Rella",
+    "domain": "larella.cat",
+    "website": "http://www.larella.cat",
+    "support": "PE",
+    "feed": "https://larella.cat/feed/"
+  },
+  {
+    "name": "La República",
+    "domain": "larepublica.cat",
+    "website": "http://www.larepublica.cat",
+    "support": "E",
+    "feed": "https://www.larepublica.cat/comments/feed/"
+  },
+  {
+    "name": "La Torre del Palau",
+    "domain": "latorredelpalau.cat",
+    "website": "http://www.latorredelpalau.cat",
+    "support": "E",
+    "sitemap": "http://www.latorredelpalau.cat/sitemap.xml"
+  },
+  {
+    "name": "La Valira",
+    "domain": "lavalira.eu",
+    "website": "https://lavalira.eu",
+    "support": "E",
+    "feed": "https://lavalira.eu/feed/"
+  },
+  {
+    "name": "La Veu de l'Ebre",
+    "domain": "ebredigital.cat",
+    "website": "http://www.ebredigital.cat",
+    "support": "PE",
+    "feed": "https://ebredigital.cat/feed/"
+  },
+  {
+    "name": "Les Muntanyes",
+    "domain": "lesmuntanyes.com",
+    "website": "http://www.lesmuntanyes.com",
+    "support": "E",
+    "feed": "https://www.lesmuntanyes.com/feed/"
+  },
+  {
+    "name": "Llibertat",
+    "domain": "llibertat.cat",
+    "website": "http://www.llibertat.cat",
+    "support": "E",
+    "feed": "https://www.llibertat.cat/rss/portada-llibertat.cat-001.xml"
+  },
+  {
+    "name": "Marfanta",
+    "domain": "marfanta.com",
+    "website": "http://www.marfanta.com",
+    "support": "E",
+    "feed": "https://www.marfanta.com/feed/"
+  },
+  {
+    "name": "Mètode",
+    "domain": "metode.cat",
+    "website": "http://www.metode.cat",
+    "support": "P",
+    "feed": "https://metode.cat/feed"
+  },
+  {
+    "name": "Més Ebre",
+    "domain": "mesebre.cat",
+    "website": "http://www.mesebre.cat",
+    "support": "PE",
+    "feed": "http://www.mesebre.cat/rss"
+  },
+  {
+    "name": "Nació Digital",
+    "domain": "naciodigital.cat",
+    "website": "http://www.naciodigital.cat",
+    "support": "E",
+    "feed": "http://www.naciodigital.cat/feed"
+  },
+  {
+    "name": "Nació Solsona",
+    "domain": "naciosolsona.cat",
+    "website": "http://www.naciosolsona.cat",
+    "support": "E",
+    "sitemap": "http://www.naciosolsona.cat/sitemap.xml"
+  },
+  {
+    "name": "Nationalia",
+    "domain": "nationalia.cat",
+    "website": "http://www.nationalia.cat",
+    "support": "E",
+    "feed": "https://www.nationalia.cat/rss"
+  },
+  {
+    "name": "Nous Horitzons",
+    "domain": "noushoritzons.cat",
+    "website": "http://www.noushoritzons.cat",
+    "support": "P",
+    "feed": "https://noushoritzons.cat/feed/"
+  },
+  {
+    "name": "Núvol",
+    "domain": "nuvol.com",
+    "website": "http://www.nuvol.com",
+    "support": "E",
+    "feed": "https://www.nuvol.com/feed"
+  },
+  {
+    "name": "Osona.com",
+    "domain": "osona.com",
+    "website": "http://www.osona.com",
+    "support": "E",
+    "sitemap": "http://www.osona.com/sitemap.xml"
+  },
+  {
+    "name": "Pallars Digital",
+    "domain": "pallarsdigital.cat",
+    "website": "http://www.pallarsdigital.cat",
+    "support": "E*",
+    "feed": "https://www.pallarsdigital.cat/rss/"
+  },
+  {
+    "name": "Penedès Econòmic",
+    "domain": "penedeseconomic.com",
+    "website": "http://www.penedeseconomic.com",
+    "support": "PE",
+    "feed": "https://www.penedeseconomic.com/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=236&format=feed&type=rss"
+  },
+  {
+    "name": "Poble Andorrà",
+    "domain": "pobleandorra.com",
+    "website": "https://pobleandorra.com",
+    "support": "E",
+    "feed": "https://digitalandorra.com/feed/"
+  },
+  {
+    "name": "Portaveu del Segre Mitjà",
+    "domain": "portaveu.cat",
+    "website": "http://www.portaveu.cat",
+    "support": "P",
+    "feed": "https://www.portaveu.cat/feed/"
+  },
+  {
+    "name": "Relleu",
+    "domain": "relleu.cat",
+    "website": "http://www.relleu.cat",
+    "support": "P",
+    "sitemap": "http://www.relleu.cat/sitemap.xml"
+  },
+  {
+    "name": "Reus Digital",
+    "domain": "reusdigital.cat",
+    "website": "http://www.reusdigital.cat",
+    "support": "E*",
+    "feed": "http://www.reusdigital.cat/rss"
+  },
+  {
+    "name": "Revista Mirall",
+    "domain": "revistamirall.com",
+    "website": "http://www.revistamirall.com",
+    "support": "E",
+    "feed": "https://www.revistamirall.com/feed/"
+  },
+  {
+    "name": "Ràdio Catalunya",
+    "domain": "radiocatalunya.cat",
+    "website": "http://www.radiocatalunya.cat",
+    "support": "E",
+    "feed": "https://bj88.ws/feed/"
+  },
+  {
+    "name": "Sa Veu",
+    "domain": "saveu.cat",
+    "website": "http://www.saveu.cat",
+    "support": "E",
+    "feed": "https://saveu.cat/feed/"
+  },
+  {
+    "name": "Secundèria",
+    "domain": "naciodigital.cat",
+    "website": "http://www.naciodigital.cat",
+    "support": "P",
+    "feed": "http://www.naciodigital.cat/feed"
+  },
+  {
+    "name": "Social.cat",
+    "domain": "social.cat",
+    "website": "http://www.social.cat",
+    "support": "E",
+    "feed": "https://www.social.cat/sindica"
+  },
+  {
+    "name": "Som Garrigues",
+    "domain": "somgarrigues.cat",
+    "website": "http://www.somgarrigues.cat",
+    "support": "P",
+    "sitemap": "http://www.somgarrigues.cat/sitemap.xml"
+  },
+  {
+    "name": "Som Segarra",
+    "domain": "somsegarra.cat",
+    "website": "http://www.somsegarra.cat",
+    "support": "E",
+    "sitemap": "http://www.somsegarra.cat/sitemap.xml"
+  },
+  {
+    "name": "Sàpiens",
+    "domain": "sapiens.cat",
+    "website": "http://www.sapiens.cat",
+    "support": "PE",
+    "feed": "https://www.sapiens.cat/uploads/feeds/feed_sapiens_ca.xml"
+  },
+  {
+    "name": "Sóller",
+    "domain": "setmanarisoller.cat",
+    "website": "http://www.setmanarisoller.cat",
+    "support": "PE",
+    "feed": "https://www.elsoller.cat/feed.rss"
+  },
+  {
+    "name": "Tarragona 21",
+    "domain": "tarragona21.cat",
+    "website": "http://www.tarragona21.cat",
+    "support": "E*",
+    "feed": "https://diaridigital.tarragona21.com/feed/"
+  },
+  {
+    "name": "Tarragona digital",
+    "domain": "tarragonadigital.com",
+    "website": "https://tarragonadigital.com",
+    "support": "E",
+    "feed": "https://tarragonadigital.com/feed"
+  },
+  {
+    "name": "Teleolesa",
+    "domain": "teleolesa.com",
+    "website": "https://teleolesa.com",
+    "support": "E",
+    "feed": "https://teleolesa.com/rss.xml"
+  },
+  {
+    "name": "Territoris",
+    "domain": "territoris.cat",
+    "website": "https://www.territoris.cat",
+    "support": "E",
+    "feed": "https://www.territoris.cat/rss/"
+  },
+  {
+    "name": "Top Girona",
+    "domain": "topgirona.com",
+    "website": "http://www.topgirona.com",
+    "support": "",
+    "feed": "https://www.topgirona.com/uploads/feeds/feed_top-girona_ca.xml"
+  },
+  {
+    "name": "Tot Salt",
+    "domain": "totsalt.cat",
+    "website": "http://www.totsalt.cat",
+    "support": "E",
+    "feed": "https://totsalt.cat/feed/"
+  },
+  {
+    "name": "Tot Sant Cugat",
+    "domain": "totsantcugat.cat",
+    "website": "http://www.totsantcugat.cat",
+    "support": "E",
+    "feed": "https://www.totsantcugat.cat/uploads/feeds/feed_tot_ca.xml"
+  },
+  {
+    "name": "Tribuna Ganxona",
+    "domain": "tribunaganxona.cat",
+    "website": "http://www.tribunaganxona.cat",
+    "support": "E",
+    "feed": "http://www.tribunaganxona.cat/feed"
+  },
+  {
+    "name": "Tribuna Mallorca",
+    "domain": "tribunamallorca.cat",
+    "website": "http://www.tribunamallorca.cat",
+    "support": "E",
+    "feed": "https://www.dbalears.cat/feed.rss"
+  },
+  {
+    "name": "Userda",
+    "domain": "userda.com",
+    "website": "http://www.userda.com",
+    "support": "P",
+    "sitemap": "http://www.userda.com/sitemap.xml"
+  },
+  {
+    "name": "Valors",
+    "domain": "valors.org",
+    "website": "http://www.valors.org",
+    "support": "P",
+    "feed": "https://valors.org/feed/"
+  },
+  {
+    "name": "VilaWeb",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb Alacant",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb Benicàssim",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb Castelló de la Plana",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb Catalunya Nord",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb l'Alguer",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb Lluçanès",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb Meliana",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "VilaWeb Ontinyent",
+    "domain": "vilaweb.cat",
+    "website": "http://www.vilaweb.cat",
+    "support": "E",
+    "feed": "http://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "Viu a Lleida",
+    "domain": "lleida.com",
+    "website": "http://www.lleida.com",
+    "support": "E",
+    "feed": "https://www.lleida.com/feed/"
+  },
+  {
+    "name": "Viure als Pirineus",
+    "domain": "viurealspirineus.cat",
+    "website": "http://www.viurealspirineus.cat",
+    "support": "PE",
+    "feed": "https://www.viurealspirineus.cat/rss/"
+  },
+  {
+    "name": "Viure en família",
+    "domain": "viureenfamilia.grao.com",
+    "website": "http://viureenfamilia.grao.com",
+    "support": "P",
+    "feed": "https://www.grao.com/feed/"
+  },
+  {
+    "name": "Zirkolika",
+    "domain": "zirkolika.com",
+    "website": "http://www.zirkolika.com",
+    "support": "Z",
+    "feed": "https://zirkolika.com/feed/"
+  }
+]

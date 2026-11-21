@@ -1,0 +1,1250 @@
+[
+  {
+    "name": "Alella",
+    "location": "Alella');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6516556, 0.8808279999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "alella",
+    "website": "https://www.premsacomarcal.cat/publicacio/alella",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Avenç del Palau dAnglesola",
+    "location": "El Palau d’Anglesola');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.71106, 0.90269),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "aven-del-palau-danglesola",
+    "website": "https://www.premsacomarcal.cat/publicacio/aven-del-palau-danglesola",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Barret Picat",
+    "location": "Linyola');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3101049, 1.3578986),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "barret-picat",
+    "website": "https://www.premsacomarcal.cat/publicacio/barret-picat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Caliu",
+    "location": "Vila-Rodona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2841333, 1.2465038),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "caliu",
+    "website": "https://www.premsacomarcal.cat/publicacio/caliu",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Cultura",
+    "location": "Valls');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3274514, 2.094432),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "cultura",
+    "website": "https://www.premsacomarcal.cat/publicacio/cultura",
+    "feed": "https://www.aaeet.com/wp/?feed=rss2",
+    "domain": "aaeet.com"
+  },
+  {
+    "name": "Periodicdelta.cat",
+    "location": "El Part de Llobregat');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.4334469, 1.9256418),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "delta-del-llobregat",
+    "website": "https://www.premsacomarcal.cat/publicacio/delta-del-llobregat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Des dels Quatre Cantons",
+    "location": "L Ametlla de Mar');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7245849, 1.830081),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "des-dels-quatre-cantons",
+    "website": "https://www.premsacomarcal.cat/publicacio/des-dels-quatre-cantons",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Dovella",
+    "location": "Manresa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3468007, 1.7046892),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "dovella",
+    "website": "https://www.premsacomarcal.cat/publicacio/dovella",
+    "feed": "https://cebages.org/feed/",
+    "domain": "cebages.org"
+  },
+  {
+    "name": "El 3 de Vuit",
+    "location": "Vilafranca del Penedès');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9280192, 2.2546755),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-3-de-vuit",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-3-de-vuit",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El 9 Nou",
+    "location": "Vic');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.633515, 1.8537046),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-9-osona-i-ripolls",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-9-osona-i-ripolls",
+    "feed": "http://www.el9nou.cat/feed",
+    "domain": "el9nou.cat"
+  },
+  {
+    "name": "El Brogit del Montserrat",
+    "location": "Castellbell i el Vilar');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2110132, 1.2079713),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-brogit",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-brogit",
+    "feed": "https://elbrogit.wordpress.com/feed/",
+    "domain": "elbrogit.wordpress.com"
+  },
+  {
+    "name": "El Codony",
+    "location": "Vilallonga del Camp');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3741632, 1.1614902),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-codony",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-codony",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Foradot",
+    "location": "Montblanc');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3971819, 1.1029317999999648),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-foradot",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-foradot",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Francolí",
+    "location": "LEspluga de Francolí');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4138239, 2.0218037),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-francol",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-francol",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Llaç",
+    "location": "Molins de Rei');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.796232, 2.21931619999998),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-lla",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-lla",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Portal de Centelles",
+    "location": "Centelles');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7242474, 1.8278795),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-portal-de-centelles",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-portal-de-centelles",
+    "feed": "http://edicionselportal.blogspot.com/feeds/posts/default",
+    "domain": "edicionselportal.blogspot.com"
+  },
+  {
+    "name": "El Pou de la Gallina",
+    "location": "Manresa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.1136522, 1.0406382),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-pou-de-la-gallina",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-pou-de-la-gallina",
+    "feed": "https://www.elpou.cat/rss/",
+    "domain": "elpou.cat"
+  },
+  {
+    "name": "El Replà",
+    "location": "Vinyols i els Arcs');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.20071069999999, 2.1898775),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-repl",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-repl",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Ripollès",
+    "location": "Ripoll');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8322559, 1.7510756000000356),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-ripolls",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-ripolls",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Salí",
+    "location": "Súria');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.28641289999999, 1.2546068),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-sal",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-sal",
+    "feed": "https://elsaliblog.wordpress.com/feed/",
+    "domain": "elsaliblog.wordpress.com"
+  },
+  {
+    "name": "El Vallenc",
+    "location": "Valls');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.3570156, 1.4622255),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-vallenc",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-vallenc",
+    "feed": "http://www.elvallenc.cat/feed",
+    "domain": "elvallenc.cat"
+  },
+  {
+    "name": "Església dUrgell",
+    "location": "La Seu dUrgell');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6260394, 0.8334933999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "esglsia-durgell",
+    "website": "https://www.premsacomarcal.cat/publicacio/esglsia-durgell",
+    "feed": "https://bisbaturgell.org/ca/feed",
+    "domain": "bisbaturgell.org"
+  },
+  {
+    "name": "Fonoll",
+    "location": "Juneda');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.26229430000001, 2.9586149),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-fonoll",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-fonoll",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Hora Nova",
+    "location": "Figueres');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(-22.0525966, -46.97849739999998),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "hora-nova",
+    "website": "https://www.premsacomarcal.cat/publicacio/hora-nova",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Foig",
+    "location": "Garcia');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8118057, 2.0977178),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-foig",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-foig",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Tosca",
+    "location": "Moià');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6477384, 2.5102008),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-tosca",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-tosca",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Vall",
+    "location": "Vallgorguina');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6698956, 1.2749563),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-vall",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-vall",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Veu de la Segarra",
+    "location": "Cervera');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.23623329999999, 1.8077757),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-veu-de-la-segarra",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-veu-de-la-segarra",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "LEco de Sitges",
+    "location": "Sitges');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.1181943, 3.1293296),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "leco-de-sitges",
+    "website": "https://www.premsacomarcal.cat/publicacio/leco-de-sitges",
+    "feed": "https://lecodesitges.cat/feed/",
+    "domain": "lecodesitges.cat"
+  },
+  {
+    "name": "LEscalenc",
+    "location": "LEscala');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8252408, 1.8955483),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lescalenc",
+    "website": "https://www.premsacomarcal.cat/publicacio/lescalenc",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "LEsparver",
+    "location": "Sallent');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9244628, 2.2839053999999805),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lesparver",
+    "website": "https://www.premsacomarcal.cat/publicacio/lesparver",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "LEspiga",
+    "location": "Calldetenes');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4795041, 1.9230479999999943),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lespiga",
+    "website": "https://www.premsacomarcal.cat/publicacio/lespiga",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "LInformador de Martorell",
+    "location": "Martorell');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.812435, 1.4034576),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "linformador-de-martorell",
+    "website": "https://www.premsacomarcal.cat/publicacio/linformador-de-martorell",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Llobregós Informatiu",
+    "location": "Torà');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.0999205, 0.8874774999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "llobregos-informatiu",
+    "website": "https://www.premsacomarcal.cat/publicacio/llobregos-informatiu",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Lo Collet",
+    "location": "Colldejou');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.1371021, 1.051018699999986),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lo-collet",
+    "website": "https://www.premsacomarcal.cat/publicacio/lo-collet",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Lo Floc",
+    "location": "Riudoms');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4145899, 1.6503699),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lo-floc",
+    "website": "https://www.premsacomarcal.cat/publicacio/lo-floc",
+    "feed": "https://cerap.cat/feed/",
+    "domain": "cerap.cat"
+  },
+  {
+    "name": "El Montònec",
+    "location": "Font-Rubí');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4240282, 1.2040688),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "montnec",
+    "website": "https://www.premsacomarcal.cat/publicacio/montnec",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Nova Conca",
+    "location": "Montblanc');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2835951, 1.5515088),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "nova-conca",
+    "website": "https://www.premsacomarcal.cat/publicacio/nova-conca",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Portal Nou",
+    "location": "Llorenç del Penedès');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.914829, 1.1846004),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "portal-nou",
+    "website": "https://www.premsacomarcal.cat/publicacio/portal-nou",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Portaveu",
+    "location": "Ponts');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8643108, 2.6615307),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "portaveu",
+    "website": "https://www.premsacomarcal.cat/publicacio/portaveu",
+    "feed": "https://www.portaveu.cat/feed/",
+    "domain": "portaveu.cat"
+  },
+  {
+    "name": "Ressò",
+    "location": "Santa Coloma de Farners');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8640796, 1.8752966),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "ress",
+    "website": "https://www.premsacomarcal.cat/publicacio/ress",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Sarment",
+    "location": "Balsareny');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.671465, 1.272254),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "sarment",
+    "website": "https://www.premsacomarcal.cat/publicacio/sarment",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Segarra",
+    "location": "Cervera');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.2752981, 2.9533086),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "segarra",
+    "website": "https://www.premsacomarcal.cat/publicacio/segarra",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Setmanari de lAlt Empordà",
+    "location": "Figueres');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.0470339, 2.2635086),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "setmanari-de-lalt-empord",
+    "website": "https://www.premsacomarcal.cat/publicacio/setmanari-de-lalt-empord",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Torelló",
+    "location": "Torelló');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6480294, 1.137326),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "torell",
+    "website": "https://www.premsacomarcal.cat/publicacio/torell",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Nova Tàrrega",
+    "location": "Tàrrega');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.78326999999999, 1.0998698999999306),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "nova-trrega",
+    "website": "https://www.premsacomarcal.cat/publicacio/nova-trrega",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Sió",
+    "location": "Agramunt');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3817819, 2.0765935),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "si",
+    "website": "https://www.premsacomarcal.cat/publicacio/si",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Vall de Verç",
+    "location": "Sant Just Desvern');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9083352, 3.1505461),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-vall-de-ver",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-vall-de-ver",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Revista de Palafrugell",
+    "location": "Palafrugell');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4958971, 2.291677),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revista-de-palafrugell",
+    "website": "https://www.premsacomarcal.cat/publicacio/revista-de-palafrugell",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Papers de Vi",
+    "location": "Alella');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7313145, 1.8336049),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "papers-de-vi",
+    "website": "https://www.premsacomarcal.cat/publicacio/papers-de-vi",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Regió 7",
+    "location": "Manresa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8505066, 3.1298161),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "regi-7",
+    "website": "https://www.premsacomarcal.cat/publicacio/regi-7",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Revista del Baix Empordà",
+    "location": "Palamós');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revista-del-baix-emporda",
+    "website": "https://www.premsacomarcal.cat/publicacio/revista-del-baix-emporda",
+    "feed": "https://revistabaixemporda.cat/feed/",
+    "domain": "revistabaixemporda.cat"
+  },
+  {
+    "name": "Segre",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.1007121, 2.2214595),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "segre",
+    "website": "https://www.premsacomarcal.cat/publicacio/segre",
+    "feed": "https://www.segre.com/ca/rss/home.xml",
+    "domain": "segre.com"
+  },
+  {
+    "name": "El 855",
+    "location": "Sant Quirze de Besora');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.0737696, 1.0532013),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-855",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-855",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Revista Cambrils",
+    "location": "Cambrils');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9922344, 1.5131003999999848),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revista-cambrils",
+    "website": "https://www.premsacomarcal.cat/publicacio/revista-cambrils",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Celsona Informació",
+    "location": "Solsona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4249252, 0.8589861),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "celsona-informaci",
+    "website": "https://www.premsacomarcal.cat/publicacio/celsona-informaci",
+    "feed": "http://www.celsona.com/feed/",
+    "domain": "celsona.com"
+  },
+  {
+    "name": "El Cérvol",
+    "location": "Cervià de les Garrigues');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.841868, 2.247519000000011),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-crvol",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-crvol",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Tots per a Tots",
+    "location": "Balenyà');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.611899, 2.289799),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-tots-per-a-tots",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-tots-per-a-tots",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Portada",
+    "location": "Granollers');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5315754, 1.3830053),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-portada",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-portada",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Segarra",
+    "location": "Santa Coloma de Queralt');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2593079, 0.5825359),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-segarra",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-segarra",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Veu de Flix",
+    "location": "Flix');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.580166, 1.6158579),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-veu-de-flix",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-veu-de-flix",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Veu de lAnoia",
+    "location": "Igualada');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8896693, 2.8761142),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-veu-de-lanoia",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-veu-de-lanoia",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Llumiguia",
+    "location": "Cassà de la Selva');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.1382887, 1.0530853),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "llumiguia",
+    "website": "https://www.premsacomarcal.cat/publicacio/llumiguia",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "LOm - Revista de Riudoms",
+    "location": "Riudoms');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6748962, 2.793476),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lom",
+    "website": "https://www.premsacomarcal.cat/publicacio/lom",
+    "feed": "https://www.femsafareig.cat/uploads/feeds/feed_femsafareig_ca.xml",
+    "domain": "femsafareig.cat"
+  },
+  {
+    "name": "Recull",
+    "location": "Blanes');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6337491, 2.1624278),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "recull",
+    "website": "https://www.premsacomarcal.cat/publicacio/recull",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Setmanari Montbui",
+    "location": "Caldes de Montbui');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.0158479, 0.1876385),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "setmanari-montbui",
+    "website": "https://www.premsacomarcal.cat/publicacio/setmanari-montbui",
+    "sitemap": "https://setmanarimontbui.cat/sitemap.xml",
+    "domain": "setmanarimontbui.cat"
+  },
+  {
+    "name": "Temps de Franja",
+    "location": "Calaceit');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5223705, 0.8735606999999845),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "temps-de-franja",
+    "website": "https://www.premsacomarcal.cat/publicacio/temps-de-franja",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Terrall",
+    "location": "Les Borges Blanques');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9289381, 2.2504139),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "terrall",
+    "website": "https://www.premsacomarcal.cat/publicacio/terrall",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Diari de Manlleu",
+    "location": "Vic');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6650489, 1.859379),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diari-del-manlleu",
+    "website": "https://www.premsacomarcal.cat/publicacio/diari-del-manlleu",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Breny",
+    "location": "Sant Vicenç de Castellet');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8956604, 1.0472421),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-breny",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-breny",
+    "feed": "https://www.elbreny.cat/feed/",
+    "domain": "elbreny.cat"
+  },
+  {
+    "name": "La Palanca",
+    "location": "Artesa de Segre');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(40.8056922, 0.5225719),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-palanca",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-palanca",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "LEbre",
+    "location": "Tortosa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.1024238, 1.8455969000000323),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-veu-de-lebre",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-veu-de-lebre",
+    "feed": "https://ebredigital.cat/feed/",
+    "domain": "ebredigital.cat"
+  },
+  {
+    "name": "LErol",
+    "location": "Berga');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5187331, 0.8706043),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lerol",
+    "website": "https://www.premsacomarcal.cat/publicacio/lerol",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "SomGarrigues",
+    "location": "Les Borges Blanques');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.796354, 1.9514656999999715),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "somgarrigues",
+    "website": "https://www.premsacomarcal.cat/publicacio/somgarrigues",
+    "sitemap": "https://www.somgarrigues.cat/sitemap.xml",
+    "domain": "somgarrigues.cat"
+  },
+  {
+    "name": "LArtesenc",
+    "location": "Artés');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.1133284, 2.7773784),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lartesenc",
+    "website": "https://www.premsacomarcal.cat/publicacio/lartesenc",
+    "feed": "https://www.lartesenc.cat/?format=feed&type=rss",
+    "domain": "lartesenc.cat"
+  },
+  {
+    "name": "Revista de Banyoles",
+    "location": "Banyoles');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.62417, 1.011349999999993),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-revista-de-banyoles",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-revista-de-banyoles",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "El Pregoner dUrgell",
+    "location": "Bellpuig');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8896332, 2.8752179),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-pregoner-durgell",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-pregoner-durgell",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "cassadigital.cat",
+    "location": "Cassà de la Selva');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9808447, 2.8230791),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "www.cassadigital.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/www.cassadigital.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "diaridegirona.cat",
+    "location": "Girona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.4201825, 2.8716813),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diaridegirona.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/diaridegirona.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "diaridelaneu.cat",
+    "location": "La Jonquera');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(40.8125777, 0.5214423),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diaridelaneu.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/diaridelaneu.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "ebredigital.cat",
+    "location": "Tortosa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3468007, 1.7046892),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "ebredigital.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/ebredigital.cat",
+    "feed": "https://ebredigital.cat/feed/",
+    "domain": "ebredigital.cat"
+  },
+  {
+    "name": "el3devuit.cat",
+    "location": "Vilafranca del Penedés');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9280192, 2.2546755),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el3devuit.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/el3devuit.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "el9nou.cat",
+    "location": "Vic');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7242805, 1.8278884),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el9nou.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/el9nou.cat",
+    "feed": "http://www.el9nou.cat/feed",
+    "domain": "el9nou.cat"
+  },
+  {
+    "name": "elpou.cat",
+    "location": "Manresa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8287594, 2.2347377),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "elpou.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/elpou.cat",
+    "feed": "https://www.elpou.cat/rss/",
+    "domain": "elpou.cat"
+  },
+  {
+    "name": "elripollesdigital.cat",
+    "location": "Ripoll');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2872481, 1.2545805),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "elripollesdigital.com",
+    "website": "https://www.premsacomarcal.cat/publicacio/elripollesdigital.com",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "eltravesser.cat",
+    "location": "Valls');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2872481, 1.2545805),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "eltravesser.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/eltravesser.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "elvallenc.cat",
+    "location": "Valls');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.2752981, 2.9533086),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "elvallenc.com",
+    "website": "https://www.premsacomarcal.cat/publicacio/elvallenc.com",
+    "feed": "http://www.elvallenc.cat/feed",
+    "domain": "elvallenc.cat"
+  },
+  {
+    "name": "emporda.info",
+    "location": "Figueres');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3820413, 2.0469715),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "emporda.info",
+    "website": "https://www.premsacomarcal.cat/publicacio/emporda.info",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "fetasantfeliu.cat",
+    "location": "Sant Feliu de Llobregat');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.26229430000001, 2.9586149),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "fetasantfeliu.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/fetasantfeliu.cat",
+    "feed": "https://www.fetasantfeliu.cat/sindica",
+    "domain": "fetasantfeliu.cat"
+  },
+  {
+    "name": "horanova.cat",
+    "location": "Figueres');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.3995936, 2.8846893),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "horanova.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/horanova.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "infojonquera.cat",
+    "location": "La Jonquera');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.18450199999999, 2.4850111),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "infojonquera.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/infojonquera.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "lacomarca.cat",
+    "location": "Olot');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7114576, 1.0059724),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lacomarca.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/lacomarca.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "lafulla.cat",
+    "location": "La Fuliola');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.23623329999999, 1.8077757),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lafulla.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/lafulla.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "lecodesitges.cat",
+    "location": "Sitges');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2874963, 1.2545467),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lecodesitges.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/lecodesitges.cat",
+    "feed": "https://lecodesitges.cat/feed/",
+    "domain": "lecodesitges.cat"
+  },
+  {
+    "name": "lopcio.cat",
+    "location": "Valls');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2872481, 1.2545805),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lopcio.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/lopcio.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "novaconca.cat",
+    "location": "Montblanc');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7313145, 1.8336049),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "novaconca.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/novaconca.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "regio7.cat",
+    "location": "Manresa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.0737696, 1.0532013),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "regio7.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/regio7.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "revistacambrils.cat",
+    "location": "Cambrils');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6179547, 0.6323232999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revistacambrils.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/revistacambrils.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "segre.com",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5207201, 0.8685746999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "segre.com",
+    "website": "https://www.premsacomarcal.cat/publicacio/segre.com",
+    "feed": "https://www.segre.com/ca/rss/home.xml",
+    "domain": "segre.com"
+  },
+  {
+    "name": "somgarrigues.cat",
+    "location": "Les Borges Blanques');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.580166, 1.6158579),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "somgarrigues.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/somgarrigues.cat",
+    "sitemap": "https://www.somgarrigues.cat/sitemap.xml",
+    "domain": "somgarrigues.cat"
+  },
+  {
+    "name": "veuanoia.cat",
+    "location": "Igualada');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4959096, 2.2917871),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "veuanoia.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/veuanoia.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "papersdevi.cat",
+    "location": "Alella');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4959096, 2.2917871),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "papersdevi.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/papersdevi.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "revistaalella.cat",
+    "location": "Alella');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9808447, 2.8230791),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revistaalella.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/revistaalella.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Diari de Girona",
+    "location": "Girona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6513025, 0.8811631999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diari-de-girona",
+    "website": "https://www.premsacomarcal.cat/publicacio/diari-de-girona",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "avensdelpalau.cat",
+    "location": "El Palau dAnglesola');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6105562, 1.1430568),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "avenc-del-palau-danglesola",
+    "website": "https://www.premsacomarcal.cat/publicacio/avenc-del-palau-danglesola",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Xercavins",
+    "location": "Verdú');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6724034, 0.8169004000000086),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "xercavins",
+    "website": "https://www.premsacomarcal.cat/publicacio/xercavins",
+    "feed": "https://www.xercavins.cat/rss/",
+    "domain": "xercavins.cat"
+  },
+  {
+    "name": "Carrilet",
+    "location": "Bellvís');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(40.805688, 0.5227185999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "carrilet",
+    "website": "https://www.premsacomarcal.cat/publicacio/carrilet",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "setmanarilebre.cat",
+    "location": "Tortosa (Tarragona)');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.18450199999999, 2.4850111),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "setmanarilebre.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/setmanarilebre.cat",
+    "feed": "https://setmanarilebre.cat/feed/",
+    "domain": "setmanarilebre.cat"
+  },
+  {
+    "name": "La Comarca dOlot",
+    "location": "Olot');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6128787, 2.2909649),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-comarca-dolot",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-comarca-dolot",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Gol Esports",
+    "location": "Granollers');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6480294, 1.137326),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "gol-esports",
+    "website": "https://www.premsacomarcal.cat/publicacio/gol-esports",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Novatarrega.cat",
+    "location": "Tàrrega');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9304988, 2.2542844),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "novatarrega.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/novatarrega.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Naciodigital.cat",
+    "location": "Vic');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6118995, 2.2898019),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "naciodigital.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/naciodigital.cat",
+    "feed": "http://www.naciodigital.cat/feed",
+    "domain": "naciodigital.cat"
+  },
+  {
+    "name": "puntvalles.cat",
+    "location": "Granollers');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5208299, 0.8687700000000405),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "puntvalles.com",
+    "website": "https://www.premsacomarcal.cat/publicacio/puntvalles.com",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "SomEsports",
+    "location": "Les Borges Blanques');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8503998, 3.1297006),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "somesports",
+    "website": "https://www.premsacomarcal.cat/publicacio/somesports",
+    "sitemap": "https://www.somesports.net/sitemap.xml",
+    "domain": "somesports.net"
+  },
+  {
+    "name": "revistabaixemporda.cat",
+    "location": "Palamós');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4145899, 1.6503699),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revistabaixemporda.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/revistabaixemporda.cat",
+    "feed": "https://revistabaixemporda.cat/feed/",
+    "domain": "revistabaixemporda.cat"
+  },
+  {
+    "name": "montonec.cat",
+    "location": "Guardiola Font-Rubí');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2298253, 0.5493274),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "montonec.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/montonec.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "laveudeflix.cat",
+    "location": "Flix');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.8099481, 2.0971693),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "laveudeflix.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/laveudeflix.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "latosca.cat",
+    "location": "Moià');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.796232, 2.21931619999998),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "latosca.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/latosca.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "elportaldecentelles.cat",
+    "location": "Centelles');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.54915520000001, 2.1078834),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "elportaldecentelles.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/elportaldecentelles.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Diari de Sabadell",
+    "location": "Sabadell');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5402965, 1.8706802),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diari-de-sabadell",
+    "website": "https://www.premsacomarcal.cat/publicacio/diari-de-sabadell",
+    "feed": "http://Www.diaridesabadell.com/feed",
+    "domain": "diaridesabadell.com"
+  },
+  {
+    "name": "Espavila",
+    "location": "Esparreguera');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2860999, 1.2549396),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "espavila",
+    "website": "https://www.premsacomarcal.cat/publicacio/espavila",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Lopció",
+    "location": "Valls');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5223705, 0.8735607000000001),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lopcio",
+    "website": "https://www.premsacomarcal.cat/publicacio/lopcio",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Somesports.net",
+    "location": "Les Borges Blanques');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5467643, 2.1089255),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "somesports.net",
+    "website": "https://www.premsacomarcal.cat/publicacio/somesports.net",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Diaridesabadell.com",
+    "location": "Sabadell');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(40.80560330000001, 0.5225365999999667),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diaridesabadell.com",
+    "website": "https://www.premsacomarcal.cat/publicacio/diaridesabadell.com",
+    "feed": "https://www.diaridesabadell.com/feed",
+    "domain": "diaridesabadell.com"
+  },
+  {
+    "name": "Imaginaradio.cat",
+    "location": "Tortosa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.93086350000001, 2.251154700000029),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "imaginaradio.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/imaginaradio.cat",
+    "feed": "https://www.imaginaradio.cat/feed/",
+    "domain": "imaginaradio.cat"
+  },
+  {
+    "name": "Estrip",
+    "location": "Vic');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.61827, 2.0889047000000573),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "estrip",
+    "website": "https://www.premsacomarcal.cat/publicacio/estrip",
+    "feed": "https://estrip.cat/feed/",
+    "domain": "estrip.cat"
+  },
+  {
+    "name": "Més Vallès",
+    "location": "Castellar del Vallès');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4249252, 0.8589861),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "mes-valles",
+    "website": "https://www.premsacomarcal.cat/publicacio/mes-valles",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "elcervol.cat",
+    "location": "Cervià de les Garrigues');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6242258, 0.6254179999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "elcervol.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/elcervol.cat",
+    "feed": "https://elcervol.cat/feed/",
+    "domain": "elcervol.cat"
+  },
+  {
+    "name": "lleida.com",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5207201, 0.8685746999999537),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lleida.com",
+    "website": "https://www.premsacomarcal.cat/publicacio/lleida.com",
+    "feed": "https://www.lleida.com/feed/",
+    "domain": "lleida.com"
+  },
+  {
+    "name": "Som Canalla",
+    "location": "Les Borges');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4781, 1.2819600000000264),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "som-canalla",
+    "website": "https://www.premsacomarcal.cat/publicacio/som-canalla",
+    "sitemap": "http://www.somgarrigues.cat/sitemap.xml",
+    "domain": "somgarrigues.cat"
+  },
+  {
+    "name": "Les Forques",
+    "location": "Rocafort de Queralt');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.1209669, 1.0047207),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "les-forques",
+    "website": "https://www.premsacomarcal.cat/publicacio/les-forques",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Els Porxos",
+    "location": "Montbrió del Camp');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3919101, 2.1782172),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "els-porxos",
+    "website": "https://www.premsacomarcal.cat/publicacio/els-porxos",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Mira",
+    "location": "Barcelona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6473385, 1.1341522),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lamiracat",
+    "website": "https://www.premsacomarcal.cat/publicacio/lamiracat",
+    "sitemap": "http://www.lamira.cat/sitemap.xml",
+    "domain": "lamira.cat"
+  },
+  {
+    "name": "Comarques de Ponent",
+    "location": "Tàrrega');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3969915, 2.1853164),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "comarques-de-ponent",
+    "website": "https://www.premsacomarcal.cat/publicacio/comarques-de-ponent",
+    "feed": "https://www.lleida.com/feed/",
+    "domain": "comarquesdeponent.com"
+  },
+  {
+    "name": "La Mira Magazín",
+    "location": "Barcelona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3957981, 2.124792),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-mira-magazin",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-mira-magazin",
+    "sitemap": "http://www.lamira.cat/sitemap.xml",
+    "domain": "lamira.cat"
+  },
+  {
+    "name": "DiariElJardí.cat",
+    "location": "Barcelona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3969904, 2.1224317),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diarieljardi.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/diarieljardi.cat",
+    "feed": "https://diarieljardi.cat/feed/",
+    "domain": "diarieljardi.cat"
+  },
+  {
+    "name": "El Jardí de Sant Gervasi i Sarrià",
+    "location": "Barcelona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6325384, 0.9315745999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "el-jardi-de-sant-gervasi-i-sarria",
+    "website": "https://www.premsacomarcal.cat/publicacio/el-jardi-de-sant-gervasi-i-sarria",
+    "feed": "https://diarieljardi.cat/feed/",
+    "domain": "diarieljardi.cat"
+  },
+  {
+    "name": "LEsclat",
+    "location": "Golmés');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(40.80560330000001, 0.5225366),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lesclat",
+    "website": "https://www.premsacomarcal.cat/publicacio/lesclat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "ebresports.cat",
+    "location": "Tortosa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3816873, 2.169306),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "www.ebresports.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/www.ebresports.cat",
+    "feed": "https://ebresports.cat/feed/",
+    "domain": "ebresports.cat"
+  },
+  {
+    "name": "frontissa.cat",
+    "location": "Barcelona');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4743755, 2.087164),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "frontissa.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/frontissa.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "tvsantcugat.cat",
+    "location": "Sant Cugat');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.4763768, 2.0961932),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "tvsantcugat.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/tvsantcugat.cat",
+    "feed": "https://www.tvsantcugat.cat/feed/",
+    "domain": "tvsantcugat.cat"
+  },
+  {
+    "name": "TV Sant Cugat Magazine",
+    "location": "Sant Cugat del Vallès');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3274514, 2.094432),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "sant-cugat-magazine",
+    "website": "https://www.premsacomarcal.cat/publicacio/sant-cugat-magazine",
+    "feed": "https://www.tvsantcugat.cat/feed/",
+    "domain": "tvsantcugat.cat"
+  },
+  {
+    "name": "cerdanyadigital.cat",
+    "location": "Puigcerda');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.1816156, 2.4882984),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "cerdanyadigital.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/cerdanyadigital.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "garrotxadigital.cat",
+    "location": "Olot');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(40.7484007, 0.6222106),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "garrotxadigital.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/garrotxadigital.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "canalte.cat",
+    "location": "Tortosa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2430318, 1.8112536),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "canal-te.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/canal-te.cat",
+    "feed": "https://canalte.cat/feed/",
+    "domain": "canalte.cat"
+  },
+  {
+    "name": "Revistacastells.cat",
+    "location": "Sitges');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6044641, 0.641029),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revista-castells",
+    "website": "https://www.premsacomarcal.cat/publicacio/revista-castells",
+    "feed": "https://revistacastells.cat/feed/",
+    "domain": "revistacastells.cat"
+  },
+  {
+    "name": "lleidadiari.cat",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.2226052, 1.710543),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "lleidadiari.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/lleidadiari.cat",
+    "feed": "https://lleidadiari.cat/feed/",
+    "domain": "lleidadiari.cat"
+  },
+  {
+    "name": "Eix Diari",
+    "location": "Vilanova i la Geltrú');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.4298825, 1.9296691),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "eix-diari",
+    "website": "https://www.premsacomarcal.cat/publicacio/eix-diari",
+    "feed": "https://www.eixdiari.cat/serveis/rss/rss.aspx?section=t",
+    "domain": "eixdiari.cat"
+  },
+  {
+    "name": "AvuiCerdanya.com",
+    "location": "Puigcerdà');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9304097, 2.2530674),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "avuicerdanya.com",
+    "website": "https://www.premsacomarcal.cat/publicacio/avuicerdanya.com",
+    "feed": "http://www.avuicerdanya.com/rss/",
+    "domain": "avuicerdanya.com"
+  },
+  {
+    "name": "Adolescents.cat",
+    "location": "Vic');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3817819, 2.0765935),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "adolescents.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/adolescents.cat",
+    "feed": "https://www.adolescents.cat/rss/",
+    "domain": "adolescents.cat"
+  },
+  {
+    "name": "Valldeverc.cat",
+    "location": "Sant Just Desvern');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "valldeverc.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/valldeverc.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "AUÉ",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "aue",
+    "website": "https://www.premsacomarcal.cat/publicacio/aue",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "aranaue.tv",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "aue.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/aue.cat",
+    "sitemap": "https://www.aranaue.cat/sitemap.xml",
+    "domain": "aranaue.cat"
+  },
+  {
+    "name": "segarratv.cat",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "segarratv.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/segarratv.cat",
+    "sitemap": "http://www.segarratv.cat/sitemap.xml",
+    "domain": "segarratv.cat"
+  },
+  {
+    "name": "urgelltv.cat",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "urgelltv.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/urgelltv.cat",
+    "sitemap": "http://www.urgelltv.cat/sitemap.xml",
+    "domain": "urgelltv.cat"
+  },
+  {
+    "name": "plaurgelltv.cat",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "plaurgelltv.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/plaurgelltv.cat",
+    "sitemap": "http://www.plaurgelltv.cat/sitemap.xml",
+    "domain": "plaurgelltv.cat"
+  },
+  {
+    "name": "nogueratv.cat",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "nogueratv.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/nogueratv.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "garriguestv.cat",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.617885, 0.63227),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "garriguestv.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/garriguestv.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "segriatv.cat",
+    "location": "Lleida');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7515378, 0.8163071000000001),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "segriatv.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/segriatv.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Horitzons",
+    "location": "Vallfogona de Balaguer');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5207134, 0.8686254999999999),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "horitzons",
+    "website": "https://www.premsacomarcal.cat/publicacio/horitzons",
+    "feed": "https://www.horitzons2050.org/feed/",
+    "domain": "horitzons2050.org"
+  },
+  {
+    "name": "Somrurals",
+    "location": "Les Borges Blanques');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7749038, 1.4367829),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "somrurals",
+    "website": "https://www.premsacomarcal.cat/publicacio/somrurals",
+    "sitemap": "https://www.somgarrigues.cat/sitemap.xml",
+    "domain": "somgarrigues.cat"
+  },
+  {
+    "name": "Revista Alta Segarra",
+    "location": "Castellfollit de Riubregós');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.3448742, 3.0645106),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revista-alta-segarra",
+    "website": "https://www.premsacomarcal.cat/publicacio/revista-alta-segarra",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Revista Miram",
+    "location": "Garriguella');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.7467869, 0.9858745000000001),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "revista-miram",
+    "website": "https://www.premsacomarcal.cat/publicacio/revista-miram",
+    "sitemap": "https://www.topcostabrava.com/sitemap.xml",
+    "domain": "topcostabrava.com"
+  },
+  {
+    "name": "A Peu de Serra",
+    "location": "Castellserà');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.6118995, 2.2898019),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "a-peu-de-serra",
+    "website": "https://www.premsacomarcal.cat/publicacio/a-peu-de-serra",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "puntosona.cat",
+    "location": "Granollers');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(42.1240901, 2.6399215),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "puntosona.cat",
+    "website": "https://www.premsacomarcal.cat/publicacio/puntosona.cat",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "Roca de Migdia",
+    "location": "Mieres');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.5621796, 2.0138067),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "roca-de-migdia",
+    "website": "https://www.premsacomarcal.cat/publicacio/roca-de-migdia",
+    "feed": "https://mieres.cat/feed/",
+    "domain": "mieres.cat"
+  },
+  {
+    "name": "Diari de Terrassa",
+    "location": "Terrassa');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.3641999, 1.2885899),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "diari-de-terrassa",
+    "website": "https://www.premsacomarcal.cat/publicacio/diari-de-terrassa",
+    "feed": "https://www.diarideterrassa.com/feed",
+    "domain": "diarideterrassa.com"
+  },
+  {
+    "name": "La Planenca",
+    "location": "Pla de Santa Maria');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t    var marker = new google.maps.Marker({\n\t\t\t\t\t\t\t\t\t    position: new google.maps.LatLng(41.9057192, 3.1435586),\n\t\t\t\t\t\t\t\t\t    map: map,\n\t\t\t\t\t\t\t\t\t    title: '",
+    "slug": "la-planenca",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-planenca",
+    "domain": "premsacomarcal.cat"
+  },
+  {
+    "name": "La Torre Ferrera",
+    "location": "Mont-ras');\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tfunction attachSecretMessage( marker, title ) {\n\t\t\t\t\t\t\t\t  var infowindow = new google.maps.InfoWindow({\n\t\t\t\t\t\t\t\t    content: title\n\t\t\t\t\t\t\t\t  });\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t  google.maps.event.addListener(marker, 'click', function() {\n\t\t\t\t\t\t\t\t    infowindow.open(marker.get('map'), marker);\n\t\t\t\t\t\t\t\t  });\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t    });",
+    "slug": "la-torre-ferrera",
+    "website": "https://www.premsacomarcal.cat/publicacio/la-torre-ferrera",
+    "sitemap": "https://latorreferrera.com/sitemap.xml",
+    "domain": "latorreferrera.com"
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Ara",
+    "website": "https://www.ara.cat/",
+    "territory": "Catalunya",
+    "domain": "ara.cat",
+    "feed": "https://www.ara.cat/rss/"
+  },
+  {
+    "name": "ARA Balears",
+    "website": "https://www.arabalears.cat/",
+    "territory": "Illes Balears",
+    "domain": "arabalears.cat",
+    "feed": "https://www.arabalears.cat/rss/"
+  },
+  {
+    "name": "Ara Multimèdia",
+    "website": "https://www.aramultimedia.com/",
+    "territory": "País Valencià",
+    "domain": "aramultimedia.com",
+    "feed": "https://www.aramultimedia.com/rss"
+  },
+  {
+    "name": "betevé",
+    "website": "https://beteve.cat/",
+    "territory": "Catalunya",
+    "domain": "beteve.cat",
+    "feed": "https://beteve.cat/feed/"
+  },
+  {
+    "name": "Bondia",
+    "website": "https://lleidadiari.cat/",
+    "territory": "Catalunya",
+    "domain": "lleidadiari.cat",
+    "feed": "https://lleidadiari.cat/feed/"
+  },
+  {
+    "name": "Catalunya Press",
+    "website": "https://www.catalunyapress.cat/",
+    "territory": "Catalunya",
+    "domain": "catalunyapress.cat",
+    "feed": "https://www.catalunyapress.cat/feed/all"
+  },
+  {
+    "name": "Cultura21",
+    "website": "https://cultura21.cat/",
+    "territory": "Catalunya",
+    "domain": "cultura21.cat",
+    "feed": "https://cultura21.cat/feed/"
+  },
+  {
+    "name": "Diari d'Andorra",
+    "website": "https://www.diariandorra.ad/",
+    "territory": "Andorra",
+    "domain": "diariandorra.ad",
+    "feed": "https://www.diariandorra.ad/rss/home.xml"
+  },
+  {
+    "name": "Diari de Balears",
+    "website": "https://www.dbalears.cat/",
+    "territory": "Illes Balears",
+    "domain": "dbalears.cat",
+    "feed": "https://www.dbalears.cat/feed.rss"
+  },
+  {
+    "name": "Diari de Girona",
+    "website": "https://www.diaridegirona.cat/",
+    "territory": "Catalunya",
+    "domain": "diaridegirona.cat"
+  },
+  {
+    "name": "Diari de Terrassa",
+    "website": "https://www.diarideterrassa.es/",
+    "territory": "Catalunya",
+    "domain": "diarideterrassa.es"
+  },
+  {
+    "name": "Eco Diari",
+    "website": "https://www.naciodigital.cat/ecodiari/",
+    "territory": "Catalunya",
+    "domain": "naciodigital.cat",
+    "feed": "https://naciodigital.cat/feed"
+  },
+  {
+    "name": "El Dimoni",
+    "website": "https://www.eldimoni.com/",
+    "territory": "Catalunya",
+    "domain": "eldimoni.com",
+    "feed": "https://www.eldimoni.com/feed"
+  },
+  {
+    "name": "El Matí",
+    "website": "https://www.elmati.cat/",
+    "territory": "Catalunya",
+    "domain": "elmati.cat"
+  },
+  {
+    "name": "El Periódico",
+    "website": "https://www.elperiodico.cat/",
+    "territory": "Catalunya",
+    "domain": "elperiodico.cat"
+  },
+  {
+    "name": "El Punt Avui",
+    "website": "https://www.elpuntavui.cat/",
+    "territory": "Catalunya",
+    "domain": "elpuntavui.cat"
+  },
+  {
+    "name": "El Singular Digital",
+    "website": "https://www.elsingulardigital.cat/",
+    "territory": "Catalunya",
+    "domain": "elsingulardigital.cat",
+    "feed": "https://elmon.cat/politica/feed/"
+  },
+  {
+    "name": "El Temps",
+    "website": "https://www.eltemps.cat/",
+    "territory": "País Valencià",
+    "domain": "eltemps.cat",
+    "feed": "https://www.eltemps.cat/sindica"
+  },
+  {
+    "name": "El Web Negre",
+    "website": "https://www.nuvol.com/elwebnegre/",
+    "territory": "Catalunya",
+    "domain": "nuvol.com",
+    "feed": "https://www.nuvol.com/feed"
+  },
+  {
+    "name": "E-notícies",
+    "website": "https://e-noticies.cat/",
+    "territory": "Catalunya",
+    "domain": "e-noticies.cat"
+  },
+  {
+    "name": "Illa Global",
+    "website": "https://www.illaglobal.com/",
+    "territory": "Illes Balears",
+    "domain": "illaglobal.com",
+    "feed": "https://illaglobal.opennemas.com/rss/"
+  },
+  {
+    "name": "La Clau",
+    "website": "https://laclau.cat/",
+    "territory": "Catalunya del Nord",
+    "domain": "laclau.cat"
+  },
+  {
+    "name": "La Vanguardia",
+    "website": "https://www.lavanguardia.com/encatala/index.html",
+    "territory": "Catalunya",
+    "domain": "lavanguardia.com"
+  },
+  {
+    "name": "L'Accent",
+    "website": "https://www.laccent.cat/",
+    "territory": "Catalunya",
+    "domain": "laccent.cat",
+    "feed": "https://www.laccent.cat/feed.xml"
+  },
+  {
+    "name": "La República",
+    "website": "https://www.larepublica.cat/",
+    "territory": "Catalunya",
+    "domain": "larepublica.cat",
+    "feed": "https://www.larepublica.cat/comments/feed/"
+  },
+  {
+    "name": "Nació Digital",
+    "website": "https://www.naciodigital.cat/",
+    "territory": "Catalunya",
+    "domain": "naciodigital.cat",
+    "feed": "https://naciodigital.cat/feed"
+  },
+  {
+    "name": "Newspapermap",
+    "website": "https://newspapermap.com/",
+    "territory": "Catalunya",
+    "domain": "newspapermap.com"
+  },
+  {
+    "name": "Sa Veu",
+    "website": "https://www.saveu.cat/",
+    "territory": "Illes Balears",
+    "domain": "saveu.cat",
+    "feed": "https://saveu.cat/feed/"
+  },
+  {
+    "name": "Tribuna",
+    "website": "https://www.tribuna.cat/",
+    "territory": "Catalunya",
+    "domain": "tribuna.cat"
+  },
+  {
+    "name": "VilaWeb",
+    "website": "https://www.vilaweb.cat/",
+    "territory": "Catalunya",
+    "domain": "vilaweb.cat",
+    "feed": "https://www.vilaweb.cat/feed"
+  },
+  {
+    "name": "Premsa Forana",
+    "website": "https://premsaforana.cat/revistes.php",
+    "territory": "Illes Balears",
+    "domain": "premsaforana.cat"
+  },
+  {
+    "name": "Bellpuig",
+    "website": "https://www.revistabellpuig.cat/",
+    "territory": "Illes Balears",
+    "domain": "revistabellpuig.cat",
+    "feed": "https://www.revistabellpuig.cat/feed/"
+  },
+  {
+    "name": "Mel i Sucre",
+    "website": "https://melisucre.cat/",
+    "territory": "Illes Balears",
+    "domain": "melisucre.cat",
+    "feed": "https://melisucre.cat/feed/"
+  },
+  {
+    "name": "L'Estel",
+    "website": "https://www.revistalestel.cat/",
+    "territory": "Illes Balears",
+    "domain": "revistalestel.cat"
+  },
+  {
+    "name": "Pes d'Illes",
+    "website": "https://pescadilles.com/",
+    "territory": "Illes Balears",
+    "domain": "pescadilles.com"
+  },
+  {
+    "name": "Cent per Cent",
+    "website": "https://www.centpercent.cat/",
+    "territory": "Illes Balears",
+    "domain": "centpercent.cat"
+  },
+  {
+    "name": "Díngola",
+    "website": "https://dingola.net/",
+    "territory": "Illes Balears",
+    "domain": "dingola.net",
+    "feed": "https://dingola.net/feed/"
+  },
+  {
+    "name": "Núvol",
+    "website": "https://www.nuvol.com/",
+    "territory": "Catalunya",
+    "domain": "nuvol.com",
+    "feed": "https://www.nuvol.com/feed"
+  },
+  {
+    "name": "Sa Plaça",
+    "website": "https://www.saplaca.cat/",
+    "territory": "Illes Balears",
+    "domain": "saplaca.cat",
+    "feed": "https://www.saplaca.cat/feed/"
+  },
+  {
+    "name": "Revista Mirall",
+    "website": "https://revistamirall.com/",
+    "territory": "Catalunya",
+    "domain": "revistamirall.com",
+    "feed": "https://www.revistamirall.com/feed/"
+  },
+  {
+    "name": "Quadern",
+    "website": "https://elpais.com/quadern/",
+    "territory": "Catalunya",
+    "domain": "elpais.com"
+  },
+  {
+    "name": "Cavall Fort",
+    "website": "https://cavallfort.cat/cavall-fort/",
+    "territory": "Catalunya",
+    "domain": "cavallfort.cat"
+  },
+  {
+    "name": "El Tatano",
+    "website": "https://cavallfort.cat/el-tatano/",
+    "territory": "Catalunya",
+    "domain": "cavallfort.cat"
+  },
+  {
+    "name": "Tot Pla",
+    "website": "https://www.totpla.cat/",
+    "territory": "Illes Balears",
+    "domain": "totpla.cat",
+    "feed": "https://www.totpla.cat/feed/"
+  }
+]

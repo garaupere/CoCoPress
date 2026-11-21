@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CoCoPress — Compilació de Corpus de Premsa Escrita</title>
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <img class="logo" src="{{ url_for('static', filename='cocopress-logo.png') }}" alt="CoCoPress — Compilació de Corpus de Premsa Escrita">
+      <p class="intro">Els mitjans de comunicació digitals o amb versió digital (o web) s'ordenen territorialment. Triau un mitjà o un conjunt de mitjans i indicau un interval de temps per a delimitar el corpus. Els textos i les metadades es prepararan en un arxiu ZIP compatible amb eines de compilació i explotació de corpus lingüístics.</p>
+    </header>
+
+    <section class="card">
+      <form id="download-form">
+        <div class="source-picker">
+          <input id="source-search" type="search" placeholder="Cerca un digital..." autocomplete="off">
+          <div id="source-options" class="source-options">
+            {% for territory, territory_sources in territorial_sources.items() %}
+            <details class="territory-group" close>
+              <summary>{{ territory }} <span class="territory-count">{{ territory_sources|length }}</span></summary>
+              {% for key, source in territory_sources %}
+              <label class="source-option" data-name="{{ source.name|lower }} {{ territory|lower }}">
+                <input type="checkbox" name="source" value="{{ key }}">
+                <span>{{ source.name }}</span>
+              </label>
+              {% endfor %}
+            </details>
+            {% endfor %}
+          </div>
+        </div>
+        <div id="selected-sources" class="selected-sources" aria-live="polite"></div>
+
+        <div class="date-grid">
+          <div>
+            <label for="from">Des de</label>
+            <input id="from" name="from" type="date" required>
+          </div>
+          <div>
+            <label for="to">Fins a</label>
+            <input id="to" name="to" type="date" required>
+          </div>
+        </div>
+
+        <label class="processing-option">
+          <input type="checkbox" name="lemmatize" value="1">
+          <span><strong>Lematitza i aplica POS tagging</strong><br>Afegirà una carpeta tagged/ amb el format paraula_POS_lemma.</span>
+        </label>
+
+        <button id="submit-button" type="submit">Prepara la descàrrega</button>
+      </form>
+    </section>
+
+    <section id="progress-card" class="card progress-card" hidden>
+      <div class="progress-heading">
+        <strong id="status">Preparant...</strong>
+        <span id="counter"></span>
+      </div>
+      <div class="track"><div id="bar"></div></div>
+      <p id="message"></p>
+      <div id="source-progress" class="source-progress"></div>
+      <a id="download-link" class="download-link" hidden>Descarrega el ZIP</a>
+    </section>
+
+    <section class="format-note">
+      <strong>Contingut del paquet:</strong>
+      <code>txt/*.txt</code> amb el cos de cada notícia,
+      <code>metadata/*.json</code> amb les metadades i
+      <code>manifest.csv</code> amb un índex de tots els articles.
+      Si s'activa, també es genera <code>tagged/*.txt</code> amb <code>paraula_POS_lemma</code>.*
+      Les fonts sense RSS ni sitemap s'exploren mitjançant crawling controlat.
+    </section>
+    <section class="credits">
+      *La lematització i el POS tagging utilitzen
+      <a href="https://stanfordnlp.github.io/stanza/" target="_blank" rel="noopener">Stanza</a>
+      i el model català de
+      <a href="https://universaldependencies.org/" target="_blank" rel="noopener">Universal Dependencies</a>.
+      Les etiquetes POS segueixen la nomenclatura UPOS.
+    </section>
+  </main>
+  <footer>
+    © 2026 Pere Garau. CoCoPress — Compilació de Corpus de Premsa Escrita.
+  </footer>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
