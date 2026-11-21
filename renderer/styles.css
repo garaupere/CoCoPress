@@ -37,5 +37,16 @@ button:disabled { opacity: .45; cursor: default; }
 #bar { height:100%; width:8%; background:#2463eb; transition:width .25s; }
 #source-progress { display:grid; gap:6px; }
 .source-progress-item { display:grid; grid-template-columns:150px 1fr auto; gap:8px; align-items:center; font-size:13px; }
+.tagging-section {
+  margin: 12px 0 14px;
+  padding: 10px 12px;
+  border-left: 3px solid #8a5b38;
+  background: #f7f5f1;
+  border-radius: 4px;
+}
+.tagging-heading { display:flex; justify-content:space-between; gap:12px; font-size:13px; }
+.tagging-track { height:6px; margin:7px 0 5px; }
+#tagging-bar { height:100%; width:0; background:#8a5b38; transition:width .25s; }
+#tagging-message { margin:0; color:#687187; font-size:12px; }
 .error { color:#b42318; background:#fef3f2; border-radius:8px; padding:10px; }
 @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } }

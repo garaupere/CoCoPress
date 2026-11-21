@@ -125,7 +125,12 @@ def run(payload):
             }
 
         def progress(values):
-            emit("progress", sourceId=source_id, name=source["name"], **values)
+            safe_values = {
+                key: value
+                for key, value in values.items()
+                if not isinstance(value, (bytes, bytearray, io.BytesIO))
+            }
+            emit("progress", sourceId=source_id, name=source["name"], **safe_values)
 
         cocopress.JOB_PROGRESS_CALLBACKS[job_id] = progress
         try:

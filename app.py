@@ -546,6 +546,9 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
         source_key=source_id,
         from_date=from_date.isoformat(),
         to_date=to_date.isoformat(),
+        tagging_status="preparing" if lemmatize else "disabled",
+        tagging_current=0,
+        tagging_total=0,
     )
     start = datetime.combine(from_date, datetime.min.time(), tzinfo=timezone.utc)
     end = datetime.combine(to_date, datetime.max.time(), tzinfo=timezone.utc)
@@ -599,6 +602,8 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
 
     set_job(job_id, total=len(entries), message=f"S'han trobat {len(entries)} notícies al canal")
     if not entries:
+        if lemmatize:
+            set_job(job_id, tagging_status="done", tagging_current=0, tagging_total=0)
         set_job(job_id, status="done", message="No s'han trobat notícies en aquest interval.")
         return
 
@@ -610,6 +615,13 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
         for index, (published, entry) in enumerate(entries, start=1):
             article_url = entry.get("link", "")
             set_job(job_id, current=index, message=f"Processant {index}/{len(entries)}")
+            if lemmatize:
+                set_job(
+                    job_id,
+                    tagging_status="running",
+                    tagging_current=index - 1,
+                    tagging_total=len(entries),
+                )
 
             try:
                 title = clean_text(entry.get("title", ""))
@@ -639,15 +651,22 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
                 }
 
                 archive.writestr(f"txt/{stem}.txt", ("\n\n".join(text_parts)).encode("utf-8"))
-                archive.writestr(
-                    f"metadata/{stem}.json",
-                    json.dumps(metadata, ensure_ascii=False, indent=2).encode("utf-8"),
-                )
                 if lemmatize:
                     set_job(job_id, message=f"Etiquetant {index}/{len(entries)}")
                     tagged_text = tag_text("\n\n".join(text_parts))
+                    set_job(
+                        job_id,
+                        tagging_status="running",
+                        tagging_current=index,
+                        tagging_total=len(entries),
+                    )
                     metadata["tagged_content_file"] = f"tagged/{stem}.txt"
                     archive.writestr(f"tagged/{stem}.txt", tagged_text.encode("utf-8"))
+                    archive.writestr(
+                        f"metadata/{stem}.json",
+                        json.dumps(metadata, ensure_ascii=False, indent=2).encode("utf-8"),
+                    )
+                else:
                     archive.writestr(
                         f"metadata/{stem}.json",
                         json.dumps(metadata, ensure_ascii=False, indent=2).encode("utf-8"),
@@ -674,6 +693,13 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
             )
 
     archives.seek(0)
+    if lemmatize:
+        set_job(
+            job_id,
+            tagging_status="done",
+            tagging_current=len(entries),
+            tagging_total=len(entries),
+        )
     set_job(
         job_id,
         status="done",

@@ -16,3 +16,5 @@ Thumbs.db
 node_modules/
 python-runtime/
 dist/
+desktop-output-test/
+desktop-output-tagged-test/
