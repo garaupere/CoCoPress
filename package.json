@@ -1,0 +1,60 @@
+{
+  "name": "cocopress-desktop",
+  "version": "1.0.0",
+  "description": "CoCoPress desktop corpus compiler",
+  "main": "electron-main.js",
+  "author": "Pere Garau",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "electron .",
+    "setup-python": "node scripts/setup-python.js",
+    "dist": "electron-builder --publish never",
+    "dist:win": "electron-builder --win --publish never",
+    "dist:mac": "electron-builder --mac --publish never",
+    "dist:linux": "electron-builder --linux --publish never",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "devDependencies": {
+    "electron": "^38.0.0",
+    "electron-builder": "^26.0.0"
+  },
+  "build": {
+    "appId": "cat.cocopress.desktop",
+    "productName": "CoCoPress",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "asarUnpack": [
+      "app.py",
+      "desktop_worker.py",
+      "*.json"
+    ],
+    "extraResources": [
+      {
+        "from": "python-runtime",
+        "to": "python-runtime",
+        "filter": ["**/*"]
+      }
+    ],
+    "files": [
+      "electron-main.js",
+      "electron-preload.js",
+      "renderer/**/*",
+      "desktop_worker.py",
+      "app.py",
+      "*.json"
+    ],
+    "win": {
+      "target": ["nsis", "portable"]
+    },
+    "mac": {
+      "category": "public.app-category.utilities",
+      "target": ["dmg", "zip"]
+    },
+    "linux": {
+      "target": ["AppImage", "deb"],
+      "category": "Utility"
+    }
+  }
+}

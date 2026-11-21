@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:">
+  <title>CoCoPress — Compilació de Corpus</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main>
+    <header>
+      <div class="brand">CoCoPress</div>
+      <p>Compilació de corpus de premsa escrita i mitjans digitals</p>
+    </header>
+
+    <section class="layout">
+      <div class="sources card">
+        <label for="source-search">Cerca i mitjans</label>
+        <input id="source-search" type="search" placeholder="Cerca per nom o territori..." autocomplete="off">
+        <div id="territories" class="territories"></div>
+        <div id="catalog-error" class="error" hidden></div>
+      </div>
+
+      <div class="configuration card">
+        <h2>Configuració del corpus</h2>
+        <div class="field-grid">
+          <div>
+            <label for="from">Des de</label>
+            <input id="from" type="date" required>
+          </div>
+          <div>
+            <label for="to">Fins a</label>
+            <input id="to" type="date" required>
+          </div>
+        </div>
+
+        <label class="check">
+          <input id="lemmatize" type="checkbox">
+          <span><strong>Lematització i POS</strong><br>Stanza; etiqueta paraula_POS_lemma</span>
+        </label>
+
+        <label for="output">Directori de descàrrega / corpus</label>
+        <div class="folder-row">
+          <input id="output" type="text" readonly placeholder="Tria una carpeta">
+          <button id="choose-output" type="button" class="secondary">Triar</button>
+        </div>
+
+        <div class="selected-summary">
+          <strong>Mitjans seleccionats</strong>
+          <span id="selected-count">0</span>
+        </div>
+        <div id="selected-list" class="selected-list"></div>
+
+        <button id="start" type="button" disabled>Compilar corpus</button>
+      </div>
+    </section>
+
+    <section id="progress-card" class="card progress-card" hidden>
+      <div class="progress-heading">
+        <strong id="status">Preparant...</strong>
+        <span id="counter"></span>
+      </div>
+      <div class="track"><div id="bar"></div></div>
+      <p id="message"></p>
+      <div id="source-progress"></div>
+      <button id="open-folder" type="button" class="secondary" hidden>Obrir carpeta</button>
+    </section>
+  </main>
+  <script src="./renderer.js"></script>
+</body>
+</html>

@@ -12,6 +12,31 @@ python_version: "3.11"
 
 **Compilació de Corpus de Premsa Escrita**
 
+## Aplicació d'escriptori local
+
+CoCoPress inclou una interfície Electron independent del servidor web. Reutilitza
+el catàleg i els descobridors RSS/sitemap/crawler de `app.py`.
+
+En una màquina de desenvolupament:
+
+```text
+npm install
+npm run setup-python
+npm start
+```
+
+Els paquets d’instal·lació es poden generar sense publicar-los:
+
+```text
+npm run dist:win
+npm run dist:mac
+npm run dist:linux
+```
+
+Per empaquetar Stanza i les seves dependències, executeu `npm run setup-python`
+abans de construir. En desenvolupament també pot utilitzar un Python 3 disponible
+al PATH. La configuració de l’instal·lador no publica, signa ni puja els fitxers.
+
 Aplicació web per compilar corpus de premsa escrita i mitjans digitals en català.
 Cada notícia es desa com a fitxer TXT i té un fitxer JSON associat amb títol,
 subtítol, autor, data, URL, font i idioma. El ZIP inclou també `manifest.csv`
@@ -94,3 +119,26 @@ bash pythonanywhere_setup.sh
 Stanza pot consumir la major part de la memòria disponible al pla gratuït.
 Per a un primer desplegament, és recomanable deixar el POS tagging desactivat
 fins comprovar que el servei inicia amb estabilitat.
+## Aplicació d'escriptori local
+
+CoCoPress també es pot executar com a aplicació local Electron per a Windows,
+macOS i Linux. No necessita Flask ni servidor públic.
+
+```powershell
+npm install
+npm run setup-python
+npm start
+```
+
+Per generar instal·ladors:
+
+```powershell
+npm run dist:win
+npm run dist:mac
+npm run dist:linux
+```
+
+La compilació macOS i Linux ha de fer-se al sistema o per una CI que executi
+aquell sistema. Windows i macOS poden mostrar avisos si no hi ha certificat
+comercial de signatura.
+

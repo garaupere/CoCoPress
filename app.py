@@ -556,9 +556,21 @@ def download_job(job_id, source_id, from_date, to_date, lemmatize=False):
         try:
             parsed_feed = feedparser.parse(source["feed"])
         except Exception as exc:
-            set_job(job_id, status="error", message=f"No s'ha pogut llegir el canal RSS: {exc}")
-            return
-        feed_entries = parsed_feed.entries
+            parsed_feed = None
+            set_job(job_id, status="running", message=f"RSS no disponible; provant alternatives... ({exc})")
+        feed_entries = parsed_feed.entries if parsed_feed is not None else []
+
+        if not feed_entries:
+            set_job(job_id, status="running", message="RSS buit; provant el mapa del lloc...")
+            try:
+                if source.get("sitemap"):
+                    feed_entries = discover_sitemap_entries(source["sitemap"])
+                else:
+                    set_job(job_id, status="running", message="No hi ha RSS ni sitemap; cercant enllaços a la web...")
+                    feed_entries = discover_site_entries(source)
+            except Exception as exc:
+                set_job(job_id, status="error", message=f"No s'ha pogut llegir cap font de descoberta: {exc}")
+                return
     elif source.get("premsa_forana"):
         set_job(
             job_id,
@@ -745,8 +757,7 @@ def health():
     return jsonify({"status": "ok"})
 
 
-@app.route("/")
-def index():
+def get_territorial_sources():
     territories = {
         "Catalunya": [],
         "País Valencià": [],
@@ -796,10 +807,15 @@ def index():
             territory = "Catalunya"
         territories[territory].append((key, source))
 
+    return {name: values for name, values in territories.items() if values}
+
+
+@app.route("/")
+def index():
     return render_template(
         "index.html",
         sources=SOURCES,
-        territorial_sources={name: values for name, values in territories.items() if values},
+        territorial_sources=get_territorial_sources(),
     )
 
 
