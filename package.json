@@ -21,7 +21,6 @@
   "build": {
     "appId": "cat.cocopress.desktop",
     "productName": "CoCoPress",
-    "icon": "build.ico",
     "directories": {
       "output": "dist",
       "buildResources": "build"
@@ -48,13 +47,16 @@
       "*.json"
     ],
     "win": {
+      "icon": "build.ico",
       "target": ["nsis", "portable"]
     },
     "mac": {
+      "icon": "static/favicon.png",
       "category": "public.app-category.utilities",
       "target": ["dmg", "zip"]
     },
     "linux": {
+      "icon": "static/favicon.png",
       "target": ["AppImage", "deb"],
       "category": "Utility"
     }
