@@ -71,9 +71,14 @@ jobs:
       - name: Generate checksums
         shell: bash
         run: |
-          find cocopress-win cocopress-mac cocopress-linux -type f \
-            \( -name '*.exe' -o -name '*.dmg' -o -name '*.zip' -o -name '*.AppImage' -o -name '*.deb' \) \
-            -exec sha256sum {} + 2>/dev/null | sed 's#  cocopress-[^/]*/#  #' > SHA256SUMS.txt
+          : > SHA256SUMS.txt
+          for dir in cocopress-win cocopress-mac cocopress-linux; do
+            if [ -d "$dir" ]; then
+              find "$dir" -type f \
+                \( -name '*.exe' -o -name '*.dmg' -o -name '*.zip' -o -name '*.AppImage' -o -name '*.deb' \) \
+                -exec sha256sum {} + | sed "s#  $dir/#  #" >> SHA256SUMS.txt
+            fi
+          done
 
       - name: Create GitHub release
         uses: softprops/action-gh-release@v2
